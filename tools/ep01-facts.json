@@ -2,7 +2,9 @@
   "episode": {
     "slug": "salem-witch-trials-1692",
     "label": "Instance 01 — Massachusetts Bay, 1692",
-    "title": "Salem Witch Trials"
+    "title": "Salem Witch Trials",
+    "subtitle": "You were not wrong to think you'd survive. That was the trap.",
+    "intro": "In the simulation, every choice that looked reasonable — and killed you anyway — was drawn from an actual courtroom in 1692. Between February 1692 and May 1693, roughly 200 people across Massachusetts Bay were formally accused of witchcraft. Nineteen were hanged. One was crushed to death under stones for refusing to enter a plea. At least five more died in jail waiting for a trial that never came. Eight of the mechanisms behind those numbers are footnoted below, with sources."
   },
   "facts": [
     {
@@ -10,104 +12,193 @@
       "no": "Record 01",
       "eyebrow": "The Core Mechanism",
       "title": "The crime you could never disprove",
-      "hook": "“I saw your ghost strangle me in my sleep.” Try building a defense against that.",
-      "body": [
-        "The Salem court accepted spectral evidence — testimony that the accused’s spirit, not their body, had appeared and tormented the witness. An alibi was worthless: you could be sound asleep in your own bed and still be convicted of an assault your specter committed elsewhere.",
-        "There was no way to rebut it. The accusation itself was the proof."
+      "card": {
+        "hook": "“I saw your ghost strangle me in my sleep.” Try building a defense against that.",
+        "body": [
+          "The Salem court accepted spectral evidence — testimony that the accused’s spirit, not their body, had appeared and tormented the witness. An alibi was worthless: you could be sound asleep in your own bed and still be convicted of an assault your specter committed elsewhere.",
+          "There was no way to rebut it. The accusation itself was the proof."
+        ]
+      },
+      "article": [
+        "The Salem court accepted <strong>spectral evidence</strong> — sworn testimony that the accused's <em>spirit</em>, separate from their physical body, had appeared to the witness and caused them harm. A defendant could produce twenty neighbors willing to swear she'd been home in bed all night, and it would change nothing. Her specter, the argument went, could still have slipped out to do the Devil's work.",
+        "This wasn't a fringe theory — it was standard Puritan theology, and that's precisely what made it so dangerous in a courtroom. The prevailing belief held that Satan could not borrow the shape of an innocent person without that person's consent. If you appeared in someone's affliction, logically, you must have granted the Devil permission to use your image. The accusation and the proof were the same event.",
+        "It also meant the evidence was unfalsifiable by design. Modern courts require evidence that could, in principle, be challenged or disproven. Spectral evidence offered no such foothold — there was no cross-examining a vision, no producing a witness to the witness's inner experience. The court was, functionally, taking dictation from an accuser's nightmares.",
+        "The practice didn't go unchallenged even at the time. Cotton Mather's own father, Increase Mather, argued in his 1692 pamphlet <em>Cases of Conscience Concerning Evil Spirits</em> that it was better for ten suspected witches to escape than for one innocent person to be condemned on such grounds. His argument helped tip the scales — Governor Phips formally barred spectral evidence from the court in October 1692, and the trials collapsed within months.",
+        "By then, nineteen people had already been hanged on exactly this kind of testimony."
       ],
       "sourceTag": "verified",
-      "source": "Smithsonian Magazine, “A Brief History of the Salem Witch Trials.”"
+      "sources": [
+        { "label": "Smithsonian Magazine — “A Brief History of the Salem Witch Trials”", "url": "https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/" },
+        { "label": "Britannica — “Salem Witch Trials”", "url": "https://www.britannica.com/event/salem-witch-trials/The-trials" }
+      ]
     },
     {
       "slug": "touch-test",
       "no": "Record 02",
       "eyebrow": "Trial by Ordeal",
       "title": "Touch her. If she stops screaming, you did it.",
-      "hook": "There was no version of this test you could pass.",
-      "body": [
-        "When an “afflicted” girl fell into convulsions in open court, the accused could be ordered to touch her — a witch’s power was believed to flow back into its owner on contact, ending the fit.",
-        "If the screaming stopped, that was proof. If you refused to touch her at all, that was proof too — of a witch too afraid to be caught."
+      "card": {
+        "hook": "There was no version of this test you could pass.",
+        "body": [
+          "When an “afflicted” girl fell into convulsions in open court, the accused could be ordered to touch her — a witch’s power was believed to flow back into its owner on contact, ending the fit.",
+          "If the screaming stopped, that was proof. If you refused to touch her at all, that was proof too — of a witch too afraid to be caught."
+        ]
+      },
+      "article": [
+        "The <strong>touch test</strong> played out in front of a packed meetinghouse. An accuser — usually one of the young women at the center of the outbreak — would fall into convulsions on cue, thrashing, crying out that the defendant's specter was attacking her. The court's remedy: bring the accused forward and have her physically touch the afflicted girl.",
+        "The folk logic behind it ran through the whole outbreak, not just the courtroom — it's the same belief that drove the earlier ‘witch cake’ incident, where a neighbor baked a cake from the afflicted girls' urine and fed it to a dog, on the theory that harming a piece of the victim would reveal the witch through sympathetic pain. Touch was assumed to be a channel: a witch's power, once expended into a victim, could flow back into her through contact, and the fit would stop.",
+        "So it did — reliably. Whether through suggestion, coincidence, or the accuser simply pausing for effect, convulsions in court very often did quiet the instant the accused's hand made contact. To the room, that silence read as confirmation: her power, returning home.",
+        "And the alternative was no better. Refusing to perform the test at all was read as a witch too cunning, or too afraid of exposure, to risk the contact. There was no third option — no way to stand in that room and have the outcome read as innocence.",
+        "It's worth sitting with what the test actually demonstrates, watched from three centuries away: a legal proceeding that built its central piece of evidence around a performance it could not lose."
       ],
       "sourceTag": "verifying",
-      "source": "Standard account across period trial transcripts; formal citation pending."
+      "sources": [
+        { "label": "Consistent with period accounts of courtroom procedure in the Court of Oyer and Terminer — direct primary-source citation pending", "url": null }
+      ]
     },
     {
       "slug": "confess-to-survive",
       "no": "Record 03",
       "eyebrow": "The Central Irony",
       "title": "Confessing was the only thing that saved you",
-      "hook": "Nineteen people told the truth. All nineteen hanged.",
-      "body": [
-        "Every person who maintained their innocence to the end of the Salem trials was executed. Every person who confessed survived — not one confessor was put to death.",
-        "A false confession bought you a way out. Telling the truth bought you a rope."
+      "card": {
+        "hook": "Nineteen people told the truth. All nineteen hanged.",
+        "body": [
+          "Every person who maintained their innocence to the end of the Salem trials was executed. Every person who confessed survived — not one confessor was put to death.",
+          "A false confession bought you a way out. Telling the truth bought you a rope."
+        ]
+      },
+      "article": [
+        "Here is the number that should sit uncomfortably: of the roughly 30 people convicted at Salem, every single one who confessed to witchcraft survived. Every one who maintained their innocence to the end — nineteen people — was hanged. One more, Giles Corey, was pressed to death for refusing to enter a plea at all. Confession wasn't just the safer option. It was, empirically, the only option that worked.",
+        "The court's logic was self-consistent, if monstrous: a confession meant the witch had renounced Satan and could, theoretically, be redeemed — reason enough for the court to show mercy and delay or forgo execution. Maintaining innocence in the face of ‘overwhelming’ spectral testimony, by contrast, only proved how deep the deception ran.",
+        "The system had a second gear, too. A confession was more convincing — and bought more goodwill — if it came with names. Confessed witches were routinely pressed to identify their accomplices, and many did, whether from genuine belief, coercion, or simple survival math. Tituba, an enslaved woman in the Parris household and the first person accused in the outbreak, confessed early and named others; she survived the trials, only to spend over a year in jail afterward because no one paid her jailer's fees.",
+        "That second gear is a large part of why the outbreak grew as fast as it did. Each confession-with-names produced new suspects, who faced the same two doors: confess and implicate others, or maintain innocence and hang. The incentive structure manufactured its own fuel.",
+        "It's the single clearest data point from the entire episode: in a system built to detect and punish witchcraft, telling the truth was the most lethal thing a defendant could do."
       ],
       "sourceTag": "verified",
-      "source": "Britannica, “Salem Witch Trials: The Trials.”"
+      "sources": [
+        { "label": "Britannica — “Salem Witch Trials: The Trials”", "url": "https://www.britannica.com/event/salem-witch-trials/The-trials" },
+        { "label": "JSTOR Daily — “What Caused the Salem Witch Trials?”", "url": "https://daily.jstor.org/caused-salem-witch-trials/" }
+      ]
     },
     {
       "slug": "accusing-the-accusers",
       "no": "Record 04",
       "eyebrow": "A Trap for the Reasonable",
       "title": "Calling out the liars got you hanged faster",
-      "hook": "“She’s obviously faking it” was the last logical thing some people ever said.",
-      "body": [
-        "To a modern eye, the girls’ convulsions look staged. Several defendants said exactly that, out loud, in court.",
-        "It did not go well for them. Publicly accusing the afflicted girls of lying escalated a defendant from “suspected” to “confirmed” faster than almost anything else a person could do."
+      "card": {
+        "hook": "“She’s obviously faking it” was the last logical thing some people ever said.",
+        "body": [
+          "To a modern eye, the girls’ convulsions look staged. Several defendants said exactly that, out loud, in court.",
+          "It did not go well for them. Publicly accusing the afflicted girls of lying escalated a defendant from “suspected” to “confirmed” faster than almost anything else a person could do."
+        ]
+      },
+      "article": [
+        "To a modern eye, the pattern is obvious: convulsions that started the moment eyes met, that intensified with a bigger audience, that stopped the instant the accused left the room. Several of the accused pointed this out, in plain language, in open court. It is, on the surface, the single most reasonable thing a defendant could have said.",
+        "It was also close to the most dangerous. The court's entire case rested on the credibility of the afflicted girls. Calling that credibility into question wasn't received as a defense — it was received as an attack on the court's own evidence, and by extension, on the girls themselves. Defendants who did this tended to move from ‘suspected’ to ‘certainly guilty’ in the eyes of the room almost immediately.",
+        "The Reverend George Burroughs is the sharpest example. A former minister at Salem Village, he was accused of being the ringleader of the entire witch conspiracy — a claim with essentially no coherent evidence behind it beyond the girls' fits. At his execution, he recited the Lord's Prayer flawlessly from the gallows — something Puritans widely believed a true witch could never do — and the crowd nearly turned in his favor on the spot. Cotton Mather, present on horseback, intervened publicly to remind the crowd that the Devil could still disguise himself as an angel of light. Burroughs was hanged minutes later.",
+        "The lesson embedded in that moment is the same one embedded in the touch test and in spectral evidence generally: the court wasn't actually weighing arguments against each other. It was running a machine that had already decided its output, and logic aimed at the machine simply became one more data point for the machine to process."
       ],
       "sourceTag": "verified",
-      "source": "Fact pattern consistent with the trial of Rev. George Burroughs, among others."
+      "sources": [
+        { "label": "History.com — “Salem Witch Trials”", "url": "https://www.history.com/articles/salem-witch-trials" },
+        { "label": "Fact pattern documented in the trial record of Rev. George Burroughs" , "url": null }
+      ]
     },
     {
       "slug": "ergot-poisoning",
       "no": "Record 05",
       "eyebrow": "A Debated Theory",
       "title": "Maybe it wasn’t witchcraft. Maybe it was breakfast.",
-      "hook": "One scientist’s theory: the accused and their accusers may have shared a fungus.",
-      "body": [
-        "In 1976, Linda Caporael proposed that the convulsions and hallucinations reported in Salem may have been symptoms of ergotism — poisoning from a fungus that grows on damp rye.",
-        "This is a hypothesis, not settled fact. Historians have raised real objections — we include it because it’s a real, published theory, not a verdict."
+      "card": {
+        "hook": "One scientist’s theory: the accused and their accusers may have shared a fungus.",
+        "body": [
+          "In 1976, Linda Caporael proposed that the convulsions and hallucinations reported in Salem may have been symptoms of ergotism — poisoning from a fungus that grows on damp rye.",
+          "This is a hypothesis, not settled fact. Historians have raised real objections — we include it because it’s a real, published theory, not a verdict."
+        ]
+      },
+      "article": [
+        "In 1976, behavioral scientist Linda Caporael published a theory in <em>Science</em> that reframed the entire outbreak as a public health event rather than a moral panic: <strong>ergotism</strong>, poisoning by a fungus (<em>Claviceps purpurea</em>) that grows on damp rye — a dietary staple in colonial Massachusetts that particular growing season.",
+        "The symptom list is genuinely striking on paper: convulsions, muscle spasms, a crawling sensation under the skin, vivid hallucinations, vomiting. Caporael cross-referenced weather records (a cold, wet growing season — ideal for the fungus) with the geography of the affected households, and argued the pattern fit disturbingly well.",
+        "The rebuttal arrived almost immediately, in the same journal, the same year — psychologists Spanos and Gottlieb challenged the medical fit point by point, and most historians today favor a social and political explanation over a biological one: land disputes between the agrarian Salem Village and the more commercially minded Salem Town, a bitter rivalry involving the Putnam family in particular, and a community under genuine strain from a recent smallpox epidemic and frontier war with the Wabanaki.",
+        "We include the ergot theory here because it is real, published, and still cited — not because Orphea has ruled on which explanation is correct. The honest answer is that historians remain split, and the true cause was very likely a tangle of all of the above: a stressed community, a rigid theology, a legal system with no defense against unfalsifiable claims, and — possibly — a genuinely poisoned harvest sitting underneath all of it."
       ],
       "sourceTag": "contested",
-      "source": "Linda Caporael, “Ergotism: The Satan Loosed in Salem,” Science, 1976."
+      "sources": [
+        { "label": "Linda Caporael — “Ergotism: The Satan Loosed in Salem,” Science, 1976", "url": null },
+        { "label": "JSTOR Daily — “What Caused the Salem Witch Trials?”", "url": "https://daily.jstor.org/caused-salem-witch-trials/" }
+      ]
     },
     {
       "slug": "property-motive",
       "no": "Record 06",
       "eyebrow": "Who Actually Got Accused",
       "title": "The more land you owned, the more likely you were a witch",
-      "hook": "A guilty verdict could turn your farm into the county’s farm.",
-      "body": [
-        "A conviction could result in the Crown seizing the condemned’s property. Landowners — especially women who’d inherited land — were disproportionately represented among the accused.",
-        "Producing a deed to prove your standing could backfire: it told the court exactly how much there was to gain from your conviction."
+      "card": {
+        "hook": "A guilty verdict could turn your farm into the county’s farm.",
+        "body": [
+          "A conviction could result in the Crown seizing the condemned’s property. Landowners — especially women who’d inherited land — were disproportionately represented among the accused.",
+          "Producing a deed to prove your standing could backfire: it told the court exactly how much there was to gain from your conviction."
+        ]
+      },
+      "article": [
+        "The popular image of a Salem victim is a poor, marginal outsider. The record tells a more uncomfortable story: a conviction opened the door for the condemned's estate to be seized, and that incentive shaped who got accused. Landowners — and especially women positioned to inherit or already holding land outside the usual male chain of ownership — turn up disproportionately in the accusation records.",
+        "Philip English, one of Salem's wealthiest merchants, fled with his wife to New York rather than stand trial — a decision that, in hindsight, almost certainly saved both their lives. Even the colony's governor wasn't fully insulated from the climate: Lady Mary Phips, the governor's own wife, was named by an accuser, though the case never proceeded to trial once word reached her husband.",
+        "Giles Corey saw the mechanism clearly enough to route around it. Before his own arrest, he legally transferred his land to his sons — a conviction voids a defendant's estate, but you cannot seize what the accused no longer owns. It's very likely part of why he chose silence over a plea when he was eventually arrested himself: a completed trial, even an acquittal, still exposed assets to challenge, while an unresolved case protected the transfer entirely.",
+        "This is also why presenting legal paperwork as a defense could backfire so completely. Producing a deed to prove you were a settled, legitimate property holder simultaneously told the court exactly how much was on the table — and just how much could be gained from a guilty verdict."
       ],
       "sourceTag": "verified",
-      "source": "Pattern documented across multiple estate-seizure cases, including Giles Corey’s."
+      "sources": [
+        { "label": "Wikipedia — “Giles Corey”", "url": "https://en.wikipedia.org/wiki/Giles_Corey" },
+        { "label": "Northeastern University — “Salem witch trials history vs. myth”", "url": "https://news.northeastern.edu/2023/10/18/salem-witch-trials-history-truth" }
+      ]
     },
     {
       "slug": "peine-forte-et-dure",
       "no": "Record 07",
       "eyebrow": "The Third Option",
       "title": "Refuse to plead, and they add weight. Literally.",
-      "hook": "Giles Corey’s last words were an instruction to his executioners: “More weight.”",
-      "body": [
-        "A defendant who refused to enter any plea couldn’t legally be tried — so the court applied peine forte et dure: stones piled on the chest, more added each day, until a plea came or the accused died.",
-        "Corey chose silence for two days. A never-tried man’s property couldn’t be seized — so his sons kept the farm. He died to protect an inheritance."
+      "card": {
+        "hook": "Giles Corey’s last words were an instruction to his executioners: “More weight.”",
+        "body": [
+          "A defendant who refused to enter any plea couldn’t legally be tried — so the court applied peine forte et dure: stones piled on the chest, more added each day, until a plea came or the accused died.",
+          "Corey chose silence for two days. A never-tried man’s property couldn’t be seized — so his sons kept the farm. He died to protect an inheritance."
+        ]
+      },
+      "article": [
+        "English common law required a defendant to enter a plea before a trial could begin. Giles Corey refused to enter one at all — not guilty, not guilty by reason of anything, nothing. Under the law of the time, the court's remedy for a defendant who ‘stood mute’ was <em>peine forte et dure</em>: the accused was stripped, laid on the ground, and had increasingly heavy stones placed on their chest, day after day, until they entered a plea or died.",
+        "Corey held out for two days. Sheriff George Corwin — the same magistrate at the center of much of the trials — reportedly pressed his cane back into Corey's tongue when it protruded from the pressure. Corey's only recorded words, offered when asked again to plead, were an instruction to add more weight. He died on September 19, 1692, the only person in American history known to have been executed by pressing.",
+        "The reasoning behind his silence was entirely deliberate, not defiance for its own sake. A conviction meant the Crown could seize a defendant's estate; a case that never reached verdict left nothing to seize. Corey had already transferred his land to his sons beforehand — his death sealed the arrangement completely, since an unresolved case gave the court no legal claim on property that was, by then, no longer his to begin with.",
+        "His wife, Martha Corey, was tried separately around the same time, convicted, and hanged. Husband pressed under stone, wife dropped from a gallows, within weeks of each other — one of the trials' starkest single-family losses."
       ],
       "sourceTag": "verified",
-      "source": "Library of Congress, “The Crushing Death of Giles Corey of Salem, 1692.”"
+      "sources": [
+        { "label": "Library of Congress — “The Crushing Death of Giles Corey of Salem, 1692”", "url": "https://blogs.loc.gov/law/2020/10/the-crushing-death-of-giles-corey-of-salem-1692/" },
+        { "label": "Wikipedia — “Giles Corey”", "url": "https://en.wikipedia.org/wiki/Giles_Corey" }
+      ]
     },
     {
       "slug": "pregnancy-exception",
       "no": "Record 08",
       "eyebrow": "A Delay, Not a Pardon",
       "title": "Pregnancy bought you time. Not your life.",
-      "hook": "The court would wait for the baby. It would not spare the mother.",
-      "body": [
-        "A pregnant woman under sentence of death received a stay of execution until after she gave birth — English common law didn’t permit executing a woman carrying an innocent child.",
-        "Elizabeth Proctor’s stay outlasted the trials themselves, and she survived. But the stay was never a pardon — only a postponement with an expiration date."
+      "card": {
+        "hook": "The court would wait for the baby. It would not spare the mother.",
+        "body": [
+          "A pregnant woman under sentence of death received a stay of execution until after she gave birth — English common law didn’t permit executing a woman carrying an innocent child.",
+          "Elizabeth Proctor’s stay outlasted the trials themselves, and she survived. But the stay was never a pardon — only a postponement with an expiration date."
+        ]
+      },
+      "article": [
+        "Under English common law, a woman convicted of a capital crime who was found to be ‘quick with child’ — pregnant, past the point of detectable movement — received an automatic stay of execution until after she gave birth. The principle predates the witch trials by centuries and had nothing to do with mercy for the mother specifically: it existed to avoid punishing an unborn child for a crime it hadn't committed.",
+        "Elizabeth Proctor was one of the most prominent people caught in the outbreak. Her husband, John Proctor, was convicted alongside her and hanged on August 19, 1692 — one of the few men executed in the trials, and one whose blunt public skepticism of the girls' fits (see: Record 04) very likely accelerated his own conviction.",
+        "Elizabeth's sentence was stayed on account of her pregnancy. What saved her, in the end, wasn't leniency — it was timing. Spectral evidence was barred from the courts that October, the special court was dissolved, and by the time her case would have come back around for execution, the entire apparatus of the trials had collapsed. She gave birth, and eventually walked free.",
+        "It's worth being precise about what the exception actually was: a postponement with a clock attached, not a pardon. Had the trials continued running on their original schedule a few months longer, the stay would very likely have run out before it saved her."
       ],
       "sourceTag": "verified",
-      "source": "History.com, “Salem Witch Trials.”"
+      "sources": [
+        { "label": "History.com — “Salem Witch Trials”", "url": "https://www.history.com/articles/salem-witch-trials" }
+      ]
     }
   ]
 }

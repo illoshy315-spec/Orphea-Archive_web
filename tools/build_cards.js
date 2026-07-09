@@ -14,7 +14,7 @@ const outDir = path.join(__dirname, '..', 'archive', data.episode.slug, 'cards')
 fs.mkdirSync(outDir, { recursive: true });
 
 for (const fact of data.facts) {
-  const bodyHtml = fact.body.map(p => `      <p>${p}</p>`).join('\n');
+  const bodyHtml = fact.card.body.map(p => `      <p>${p}</p>`).join('\n');
   const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,7 +30,7 @@ for (const fact of data.facts) {
   <div class="ig-card">
     <div class="ig-eyebrow">${fact.no} <span class="ep">· ${data.episode.label}</span></div>
     <h1>${fact.title}</h1>
-    <div class="ig-hook">${fact.hook}</div>
+    <div class="ig-hook">${fact.card.hook}</div>
     <div class="ig-body">
 ${bodyHtml}
     </div>
