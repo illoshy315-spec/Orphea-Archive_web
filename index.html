@@ -15,9 +15,9 @@
     .container { position: relative; z-index: 1; max-width: 720px; width: 100%; text-align: center; }
 
     .logo {
-      font-family: var(--display); font-weight: 700;
-      font-size: clamp(1.6rem, 4.5vw, 2.4rem);
-      letter-spacing: 0.22em; color: var(--gold-bright);
+      font-family: var(--mono); font-weight: 400;
+      font-size: clamp(1.5rem, 4.5vw, 2.2rem);
+      letter-spacing: 0.28em; color: var(--gold-bright);
       text-transform: uppercase; margin-bottom: 0.6rem;
     }
     .tagline {
@@ -41,26 +41,18 @@
       text-align: left; display: inline-block;
     }
     .sub-copy {
-      font-family: var(--display); font-size: 0.68rem; color: var(--text-dim);
-      letter-spacing: 0.2em; text-transform: uppercase; margin-bottom: 3rem;
-    }
-    /* flickering candle mark, in place of the old terminal cursor */
-    .flame { display: inline-block; color: var(--gold); margin-left: 6px; animation: flicker 2.4s ease-in-out infinite; }
-    @keyframes flicker {
-      0%, 100% { opacity: 0.55; transform: translateY(0); }
-      30% { opacity: 1; transform: translateY(-1px); }
-      55% { opacity: 0.7; }
-      80% { opacity: 0.95; }
+      font-family: var(--mono); font-size: 0.7rem; color: var(--text-dim);
+      letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 3rem;
     }
   </style>
 </head>
 <body>
   <div class="container">
 
-    <div class="eyebrow ornament">Archive Oculus — Records Retrieval</div>
+    <div class="eyebrow ornament">Archive Oculus — Records Retrieval<span class="cursor-blink"></span></div>
 
     <div class="logo">Orphea Archive</div>
-    <div class="tagline">The records history chose to forget. Now loading.<span class="flame">✦</span></div>
+    <div class="tagline">The records history chose to forget. Now loading.<span class="cursor-blink"></span></div>
 
     <div class="main-copy">
       <p>Congratulations, Player.</p>
