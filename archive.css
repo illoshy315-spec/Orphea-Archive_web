@@ -1,0 +1,286 @@
+/* ==========================================================================
+   Orphea Archive — Dark Academia design system
+   Shared across: landing page, series hub, episode fact archive, cards.
+   Aesthetic: candlelit library, aged parchment, leather, brass, gothic serif.
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap');
+
+:root {
+  /* base surfaces */
+  --bg:          #14100b;   /* espresso, not pure black */
+  --bg-deep:     #0c0906;
+  --surface:     #1d1610;
+  --surface-2:   #241b13;
+  --border:      #3a2c1c;
+  --border-lit:  #6b4f2e;
+
+  /* text */
+  --text:        #e6dcc3;   /* parchment */
+  --text-bright: #f3ead2;
+  --text-dim:    #8a7a5f;
+  --text-faint:  #5c5140;
+
+  /* accents */
+  --gold:        #b8964f;
+  --gold-bright: #d9b96a;
+  --gold-glow:   rgba(184, 150, 79, 0.18);
+  --burgundy:    #5e1f22;
+  --burgundy-bright: #8a2f33;
+  --ink:         #2a3326;   /* deep bottle green, used sparingly */
+
+  /* type */
+  --display: 'Cinzel', serif;             /* engraved / classical headers */
+  --serif:   'Cormorant Garamond', 'EB Garamond', serif; /* body, larger sizes */
+  --body:    'EB Garamond', 'Cormorant Garamond', serif; /* body, smaller sizes */
+
+  --radius: 3px;
+}
+
+* , *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--body);
+}
+
+body {
+  position: relative;
+  min-height: 100vh;
+  line-height: 1.7;
+}
+
+/* Paper grain + vignette — replaces the old CRT scanline texture */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(184,150,79,0.05) 0%, transparent 55%),
+    radial-gradient(ellipse at 50% 100%, rgba(0,0,0,0.55) 0%, transparent 60%),
+    repeating-linear-gradient(0deg, rgba(255,255,255,0.012) 0px, rgba(255,255,255,0.012) 1px, transparent 1px, transparent 3px);
+}
+
+a { color: var(--gold-bright); text-decoration: none; border-bottom: 1px solid var(--gold-glow); }
+a:hover { border-bottom-color: var(--gold-bright); }
+
+/* ---------- Ornamental dividers ---------- */
+.ornament {
+  display: flex; align-items: center; justify-content: center; gap: 1rem;
+  font-family: var(--display);
+  font-size: 0.7rem;
+  letter-spacing: 0.35em;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  margin: 2.5rem 0;
+}
+.ornament::before, .ornament::after {
+  content: ''; display: block; height: 1px; width: 48px;
+  background: linear-gradient(to var(--dir, right), transparent, var(--border-lit));
+}
+.ornament::after { --dir: left; }
+
+/* small flourish mark, use in place of a plain bullet */
+.flourish { color: var(--gold); opacity: 0.8; }
+
+/* ---------- Layout shell ---------- */
+.wrap {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 4rem 1.5rem 6rem;
+  position: relative;
+  z-index: 1;
+}
+
+.eyebrow {
+  font-family: var(--display);
+  font-size: 0.68rem;
+  letter-spacing: 0.3em;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+h1.title {
+  font-family: var(--display);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--gold-bright);
+  text-align: center;
+  font-size: clamp(1.8rem, 5vw, 2.6rem);
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--text-dim);
+  text-align: center;
+  font-size: clamp(1rem, 2.5vw, 1.2rem);
+  margin-bottom: 2rem;
+}
+
+/* ---------- Fact card (used on hub pages AND exported for Instagram) ---------- */
+.card {
+  background:
+    linear-gradient(180deg, rgba(184,150,79,0.04), transparent 40%),
+    var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 2rem 2.2rem;
+  margin-bottom: 1.75rem;
+  position: relative;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.35);
+}
+.card::before { /* corner brackets, like a sealed document */
+  content: ''; position: absolute; top: 10px; left: 10px; right: 10px; bottom: 10px;
+  border: 1px solid rgba(184,150,79,0.12); pointer-events: none;
+}
+.card .fact-no {
+  font-family: var(--display); font-size: 0.65rem; letter-spacing: 0.3em;
+  color: var(--gold); text-transform: uppercase; margin-bottom: 0.6rem;
+}
+.card h2 {
+  font-family: var(--display); font-weight: 600; font-size: clamp(1.15rem, 3vw, 1.5rem);
+  color: var(--text-bright); letter-spacing: 0.02em; margin-bottom: 0.7rem; line-height: 1.4;
+}
+.card .hook {
+  font-family: var(--serif); font-style: italic; color: var(--gold-bright);
+  font-size: 1.05rem; margin-bottom: 1.1rem;
+}
+.card p { font-family: var(--body); font-size: 1.02rem; color: var(--text); margin-bottom: 0.9rem; }
+.card p:last-of-type { margin-bottom: 0; }
+
+.card .myth-real {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+  margin: 1.2rem 0; padding: 1rem 1.1rem; background: var(--bg-deep);
+  border-left: 2px solid var(--burgundy-bright); border-radius: var(--radius);
+}
+.card .myth-real .col-label {
+  font-family: var(--display); font-size: 0.62rem; letter-spacing: 0.2em;
+  text-transform: uppercase; color: var(--text-dim); margin-bottom: 0.35rem;
+}
+.card .myth-real .myth .col-label { color: var(--text-faint); }
+.card .myth-real .real .col-label { color: var(--gold); }
+.card .myth-real p { font-size: 0.95rem; margin-bottom: 0; }
+
+.sources {
+  margin-top: 1.2rem; padding-top: 1rem; border-top: 1px solid var(--border);
+  font-family: var(--body); font-size: 0.8rem; color: var(--text-faint);
+}
+.sources a { color: var(--text-dim); border-bottom: 1px dotted var(--text-faint); }
+.sources .tag {
+  display: inline-block; font-family: var(--display); font-size: 0.6rem;
+  letter-spacing: 0.1em; padding: 1px 6px; border: 1px solid var(--border-lit);
+  border-radius: 2px; color: var(--gold); margin-right: 0.4rem;
+}
+
+.card-footer {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-top: 1.3rem; padding-top: 1rem; border-top: 1px solid var(--border);
+}
+.card-footer .ending-tag {
+  font-family: var(--display); font-size: 0.62rem; letter-spacing: 0.15em;
+  text-transform: uppercase; color: var(--burgundy-bright);
+}
+.card-footer .card-link {
+  font-family: var(--display); font-size: 0.62rem; letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+/* ---------- Episode index list (series hub) ---------- */
+.episode-row {
+  display: block; border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 1.5rem 1.8rem; margin-bottom: 1.2rem; background: var(--surface);
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+.episode-row:hover { border-color: var(--border-lit); transform: translateX(2px); }
+.episode-row .ep-no { font-family: var(--display); font-size: 0.65rem; letter-spacing: 0.25em; color: var(--gold); text-transform: uppercase; }
+.episode-row h3 { font-family: var(--display); color: var(--text-bright); font-size: 1.3rem; margin: 0.4rem 0 0.3rem; }
+.episode-row .ep-meta { font-family: var(--body); font-style: italic; color: var(--text-dim); font-size: 0.95rem; }
+
+.locked-row {
+  opacity: 0.45; border-style: dashed;
+}
+.locked-row:hover { transform: none; border-color: var(--border); }
+
+/* ---------- Footer / attribution ---------- */
+footer.site-footer {
+  text-align: center; font-family: var(--display); font-size: 0.62rem;
+  letter-spacing: 0.15em; color: var(--text-faint); text-transform: uppercase;
+  margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border);
+}
+footer.site-footer a { color: var(--text-dim); }
+
+.back-link {
+  display: inline-block; margin-bottom: 2rem; font-family: var(--display);
+  font-size: 0.68rem; letter-spacing: 0.15em; text-transform: uppercase;
+  color: var(--text-dim); border-bottom: none;
+}
+.back-link:hover { color: var(--gold-bright); }
+
+/* ---------- Ad slot (dormant placeholder, not activated yet) ---------- */
+.ad-slot {
+  margin: 2rem 0; padding: 0.6rem; text-align: center;
+  border: 1px dashed var(--border); border-radius: var(--radius);
+  font-family: var(--display); font-size: 0.6rem; letter-spacing: 0.2em;
+  color: var(--text-faint); text-transform: uppercase;
+}
+
+@media (max-width: 560px) {
+  .card { padding: 1.5rem 1.4rem; }
+  .card .myth-real { grid-template-columns: 1fr; }
+}
+
+/* ==========================================================================
+   Instagram export card — fixed 1080×1350 (4:5). Screenshot this viewport
+   exactly to export. No scroll, no chrome — the whole page IS the card.
+   ========================================================================== */
+.ig-page { display: flex; align-items: center; justify-content: center; background: var(--bg-deep); }
+.ig-page::before { content: none; } /* no grain overlay competing with the card's own */
+
+.ig-card {
+  width: 1080px; height: 1350px;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(184,150,79,0.09) 0%, transparent 50%),
+    radial-gradient(ellipse at 50% 100%, rgba(0,0,0,0.6) 0%, transparent 55%),
+    var(--surface);
+  border: 1px solid var(--border-lit);
+  position: relative;
+  display: flex; flex-direction: column;
+  padding: 90px 100px;
+}
+.ig-card::before {
+  content: ''; position: absolute; top: 28px; left: 28px; right: 28px; bottom: 28px;
+  border: 1px solid rgba(184,150,79,0.22); pointer-events: none;
+}
+.ig-card .ig-eyebrow {
+  font-family: var(--display); font-size: 22px; letter-spacing: 0.3em;
+  color: var(--gold); text-transform: uppercase; margin-bottom: 40px;
+}
+.ig-card .ig-eyebrow .ep { color: var(--text-dim); }
+.ig-card h1 {
+  font-family: var(--display); font-weight: 600; font-size: 58px; line-height: 1.35;
+  color: var(--text-bright); letter-spacing: 0.01em; margin-bottom: 36px;
+}
+.ig-card .ig-hook {
+  font-family: var(--serif); font-style: italic; font-size: 34px; line-height: 1.5;
+  color: var(--gold-bright); margin-bottom: 48px;
+}
+.ig-card .ig-body {
+  font-family: var(--body); font-size: 28px; line-height: 1.75; color: var(--text);
+  flex: 1;
+}
+.ig-card .ig-body p { margin-bottom: 24px; }
+.ig-card .ig-footer {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-top: auto; padding-top: 36px; border-top: 1px solid var(--border);
+  font-family: var(--display); font-size: 20px; letter-spacing: 0.15em;
+  color: var(--text-dim); text-transform: uppercase;
+}
+.ig-card .ig-footer .brand { color: var(--gold); }
