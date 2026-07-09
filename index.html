@@ -42,8 +42,16 @@
     }
     .sub-copy {
       font-family: var(--mono); font-size: 0.7rem; color: var(--text-dim);
-      letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 3rem;
+      letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 1.5rem;
     }
+    .archive-link {
+      display: inline-block; font-family: var(--mono); font-size: 0.8rem;
+      letter-spacing: 0.15em; text-transform: uppercase; color: var(--gold);
+      border: 1px solid var(--border-lit); border-bottom: 1px solid var(--border-lit);
+      padding: 0.6rem 1.4rem; margin-bottom: 3rem; border-radius: 2px;
+      transition: background 0.2s ease, color 0.2s ease;
+    }
+    .archive-link:hover { background: var(--gold-glow); color: var(--gold-bright); border-color: var(--gold); }
   </style>
 </head>
 <body>
@@ -66,6 +74,8 @@
     </div>
 
     <div class="sub-copy">Records are being compiled. Access granted soon.</div>
+
+    <a class="archive-link" href="/archive/">→ Compiled Records Available</a>
 
   </div>
 
