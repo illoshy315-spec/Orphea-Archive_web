@@ -56,18 +56,24 @@
         ]
       },
       "article": [
-        "The <strong>touch test</strong> played out in front of a packed meetinghouse. An accuser — usually one of the young women at the center of the outbreak — would fall into convulsions on cue, thrashing, crying out that the defendant's specter was attacking her. The court's remedy: bring the accused forward and have her physically touch the afflicted girl.",
-        "The folk logic behind it ran through the whole outbreak, not just the courtroom — it's the same belief that drove the earlier ‘witch cake’ incident, where a neighbor baked a cake from the afflicted girls' urine and fed it to a dog, on the theory that harming a piece of the victim would reveal the witch through sympathetic pain. Touch was assumed to be a channel: a witch's power, once expended into a victim, could flow back into her through contact, and the fit would stop.",
-        "So it did — reliably. Whether through suggestion, coincidence, or the accuser simply pausing for effect, convulsions in court very often did quiet the instant the accused's hand made contact. To the room, that silence read as confirmation: her power, returning home.",
-        "And the alternative was no better. Refusing to perform the test at all was read as a witch too cunning, or too afraid of exposure, to risk the contact. There was no third option — no way to stand in that room and have the outcome read as innocence.",
-        "It's worth sitting with what the test actually demonstrates, watched from three centuries away: a legal proceeding that built its central piece of evidence around a performance it could not lose."
+        "<h2>The Mechanism</h2>",
+        "The <strong>touch test</strong> played out in front of a packed meetinghouse. An accuser — usually one of the young women at the center of the outbreak — fell into convulsions on cue: thrashing, screaming that the defendant's specter was attacking her. The court's remedy was to bring the accused forward and have her touch the afflicted girl directly.",
+        "The logic behind it ran through the whole outbreak, not just the courtroom. It's the same belief behind the earlier ‘witch cake’ incident, where a neighbor baked a cake from the afflicted girls' urine and fed it to a dog, on the theory that harming a piece of the victim would reveal the witch through sympathetic pain. Touch, in this framework, was a channel: a witch's power, once spent on a victim, could flow back into her on contact, and the fit would stop.",
+        "<h2>Case on File — Andover, October 1692</h2>",
+        "The clearest surviving account of the test comes from Andover, where villagers gathered in the meetinghouse and put roughly a dozen accused women through it in a single afternoon, one after another. Several later gave a joint account of the ordeal: “we were blindfolded, and our hands were laid upon the afflicted persons... they being in their fits and falling into their fits at our coming into their presence, as they said. Some led us and laid our hands upon them, and then they said they were well and that we were guilty of afflicting them.” Every woman whose touch was said to calm a convulsing girl that afternoon was arrested on the spot.",
+        "<h2>No Way to Win</h2>",
+        "Refusing the test at all was no safer. It was read as the move of a witch too cunning, or too frightened of exposure, to risk the contact. There was no third option — no way to stand in that meetinghouse and have the outcome read as innocence.",
+        "<h2>The Echo</h2>",
+        "A similar shape shows up in a much more familiar piece of modern courtroom folklore: the polygraph. Like the touch test, it converts an involuntary physical reaction into supposed proof of guilt or innocence — and like the touch test, the underlying science has never held up. The U.S. Supreme Court excluded polygraph evidence from federal trials in 1998, finding it fails basic standards of scientific reliability, a conclusion the American Psychological Association shares. The test is still used anyway, mostly in pre-employment screening and plea negotiations, playing roughly the same role the touch test played in 1692: a piece of theater everyone treats as more conclusive than it is."
       ],
       "orphea": "A test with only one correct outcome isn't a test. It's theater with paperwork.",
       "inGame": "The courtroom touch test",
       "sourceTag": "verified",
       "sources": [
         { "label": "Famous Trials (Univ. of Missouri–KC Law) — “An Account of the Salem Witchcraft Investigations, Trials, and Aftermath”", "url": "http://law2.umkc.edu/faculty/projects/ftrials/salem/sal_acct.htm" },
-        { "label": "The Monastery — “7 Strange and Barbaric Witch Tests Used in the Salem Witch Trials”", "url": "https://www.themonastery.org/blog/seven-strange-and-barbaric-witch-tests-used-in-the-salem-witch-trials" }
+        { "label": "The Monastery — “7 Strange and Barbaric Witch Tests Used in the Salem Witch Trials”", "url": "https://www.themonastery.org/blog/seven-strange-and-barbaric-witch-tests-used-in-the-salem-witch-trials" },
+        { "label": "Skeptical Inquirer — “The Lie Detector Test Revisited: A Great Example of Junk Science”", "url": "https://skepticalinquirer.org/2016/03/the-lie-detector-test-revisited-a-great-example-of-junk-science/" },
+        { "label": "Criminal Legal News — “The Persistence of Polygraph Tests: A Misguided Reliance on Junk Science”", "url": "https://www.criminallegalnews.org/news/2023/may/14/persistence-polygraph-tests-misguided-reliance-junk-science/" }
       ]
     },
     {
@@ -83,18 +89,24 @@
         ]
       },
       "article": [
-        "Here is the number that should sit uncomfortably: of the roughly 30 people convicted at Salem, every single one who confessed to witchcraft survived. Every one who maintained their innocence to the end — nineteen people — was hanged. One more, Giles Corey, was pressed to death for refusing to enter a plea at all. Confession wasn't just the safer option. It was, empirically, the only option that worked.",
-        "The court's logic was self-consistent, if monstrous: a confession meant the witch had renounced Satan and could, theoretically, be redeemed — reason enough for the court to show mercy and delay or forgo execution. Maintaining innocence in the face of ‘overwhelming’ spectral testimony, by contrast, only proved how deep the deception ran.",
-        "The system had a second gear, too. A confession was more convincing — and bought more goodwill — if it came with names. Confessed witches were routinely pressed to identify their accomplices, and many did, whether from genuine belief, coercion, or simple survival math. Tituba, an enslaved woman in the Parris household and the first person accused in the outbreak, confessed early and named others; she survived the trials, only to spend over a year in jail afterward because no one paid her jailer's fees.",
+        "<h2>The Mechanism</h2>",
+        "Here is the number that should sit uncomfortably: of the roughly 30 people convicted at Salem, every single one who confessed to witchcraft survived. Every one who maintained their innocence to the end — nineteen people — was hanged. One more, Giles Corey, was pressed to death for refusing to enter a plea at all. Confession was, empirically, the only strategy that worked.",
+        "The court's logic was self-consistent, if monstrous: a confession meant the witch had renounced Satan and could, theoretically, be redeemed — reason enough to show mercy and delay or forgo execution. Maintaining innocence in the face of ‘overwhelming’ spectral testimony, by contrast, only proved how deep the deception ran.",
+        "<h2>The Second Gear</h2>",
+        "A confession was more convincing, and bought more goodwill, if it came with names. Confessed witches were routinely pressed to identify accomplices, and many did — from genuine belief, coercion, or simple survival math. Tituba, an enslaved woman in the Parris household and the first person accused in the outbreak, confessed early and named others; she survived the trials, only to spend over a year in jail afterward because no one paid her jailer's fees.",
         "That second gear is a large part of why the outbreak grew as fast as it did. Each confession-with-names produced new suspects, who faced the same two doors: confess and implicate others, or maintain innocence and hang. The incentive structure manufactured its own fuel.",
-        "It's the single clearest data point from the entire episode: in a system built to detect and punish witchcraft, telling the truth was the most lethal thing a defendant could do."
+        "It's the clearest data point from the entire episode: in a system built to detect and punish witchcraft, telling the truth was the most lethal thing a defendant could do.",
+        "<h2>The Echo</h2>",
+        "The same trade shows up, largely unchanged, in the modern American courtroom. More than 95 percent of felony convictions in the United States today are resolved through plea bargains rather than trials, and prosecutors routinely lean on the gap between a plea offer and the harsher sentence that follows a trial conviction — the so-called trial penalty — to make pleading guilty the safer bet regardless of actual guilt. The Innocence Project's registry of DNA exonerations includes defendants who pleaded guilty to crimes they didn't commit; nationally, an estimated 12 percent of proven wrongful convictions involved a false confession, rising to 23 percent in homicide cases. The mechanism is gentler than a courtroom demanding your specter answer for itself, but the underlying math hasn't moved much since 1692: telling the truth is not always the option that keeps you alive."
       ],
       "orphea": "Every survivor in this file lied under oath. Make of that what you will.",
       "inGame": "Ending — Claiming Innocence",
       "sourceTag": "verified",
       "sources": [
         { "label": "Britannica — “Salem Witch Trials: The Trials”", "url": "https://www.britannica.com/event/salem-witch-trials/The-trials" },
-        { "label": "JSTOR Daily — “What Caused the Salem Witch Trials?”", "url": "https://daily.jstor.org/caused-salem-witch-trials/" }
+        { "label": "JSTOR Daily — “What Caused the Salem Witch Trials?”", "url": "https://daily.jstor.org/caused-salem-witch-trials/" },
+        { "label": "Innocence Project — “Coerced Pleas”", "url": "https://innocenceproject.org/coerced-pleas/" },
+        { "label": "Duke Law Journal — “The Innocence Effect”", "url": "https://dlj.law.duke.edu/article/the-innocence-effect/" }
       ]
     },
     {
@@ -110,17 +122,23 @@
         ]
       },
       "article": [
-        "To a modern eye, the pattern is obvious: convulsions that started the moment eyes met, that intensified with a bigger audience, that stopped the instant the accused left the room. Several of the accused pointed this out, in plain language, in open court. It is, on the surface, the single most reasonable thing a defendant could have said.",
-        "It was also close to the most dangerous. The court's entire case rested on the credibility of the afflicted girls. Calling that credibility into question wasn't received as a defense — it was received as an attack on the court's own evidence, and by extension, on the girls themselves. Defendants who did this tended to move from ‘suspected’ to ‘certainly guilty’ in the eyes of the room almost immediately.",
+        "<h2>The Mechanism</h2>",
+        "To a modern eye, the pattern is obvious: convulsions that started the moment eyes met, intensified with a bigger audience, and stopped the instant the accused left the room. Several of the accused pointed this out, in plain language, in open court. It is, on the surface, the single most reasonable thing a defendant could have said.",
+        "It was also close to the most dangerous thing they could have said. The court's entire case rested on the afflicted girls' credibility. Questioning that credibility read not as a defense but as an attack on the court's own evidence — and, by extension, on the girls themselves. Defendants who tried it tended to move from ‘suspected’ to ‘certainly guilty’ in the eyes of the room almost immediately.",
+        "<h2>Case on File — George Burroughs</h2>",
         "The Reverend George Burroughs is the sharpest example. A former minister at Salem Village, he was accused of being the ringleader of the entire witch conspiracy — a claim with essentially no coherent evidence behind it beyond the girls' fits. At his execution, he recited the Lord's Prayer flawlessly from the gallows — something Puritans widely believed a true witch could never do — and the crowd nearly turned in his favor on the spot. Cotton Mather, present on horseback, intervened publicly to remind the crowd that the Devil could still disguise himself as an angel of light. Burroughs was hanged minutes later.",
-        "The lesson embedded in that moment is the same one embedded in the touch test and in spectral evidence generally: the court wasn't actually weighing arguments against each other. It was running a machine that had already decided its output, and logic aimed at the machine simply became one more data point for the machine to process."
+        "The lesson embedded in that moment is the same one embedded in the touch test and in spectral evidence generally: the court wasn't actually weighing arguments against each other. It was running a machine that had already decided its output, and logic aimed at the machine simply became one more data point for the machine to process.",
+        "<h2>The Echo</h2>",
+        "The same trap has a name in modern employment and government law: retaliation. Whistleblowers who report wrongdoing — even when the underlying complaint is entirely justified — routinely face professional exile and reclassification from ‘concerned employee’ to ‘disgruntled troublemaker,’ a pattern serious enough that Congress has been legislating against it since the Whistleblower Protection Act of 1989, strengthened again in 2012. The Congressional Research Service's own summary of the law exists because the underlying dynamic keeps recurring: an institution under scrutiny treats the person naming the problem as the problem. Burroughs didn't have a statute to invoke. He had a courtroom that had already decided which side telling the truth was allowed to be on."
       ],
       "orphea": "Correct, and dead. An underrated combination.",
       "inGame": "Ending — Calling Out the Girls",
       "sourceTag": "verified",
       "sources": [
         { "label": "Wikipedia — “George Burroughs”", "url": "https://en.wikipedia.org/wiki/George_Burroughs" },
-        { "label": "History of Massachusetts Blog — “The Witchcraft Trial of Reverend George Burroughs”", "url": "https://historyofmassachusetts.org/reverend-george-burroughs-salem/" }
+        { "label": "History of Massachusetts Blog — “The Witchcraft Trial of Reverend George Burroughs”", "url": "https://historyofmassachusetts.org/reverend-george-burroughs-salem/" },
+        { "label": "Congress.gov (Congressional Research Service) — “The Whistleblower Protection Act (WPA): A Legal Overview”", "url": "https://www.congress.gov/crs-product/R48318" },
+        { "label": "U.S. Department of Labor — “Whistleblower Protections”", "url": "https://www.dol.gov/general/topics/whistleblower" }
       ]
     },
     {
@@ -136,10 +154,14 @@
         ]
       },
       "article": [
+        "<h2>The Mechanism</h2>",
         "A <strong>familiar</strong>, in the theology behind the trials, was an imp or minor demon a witch kept as a servant — most often described in the shape of a cat, dog, or bird. Reporting a neighbor's animal as suspicious wasn't a fringe accusation; it was one of the most ordinary moves available to a frightened colonist, requiring no confrontation with a person at all.",
         "Tituba, the first person to confess in the outbreak, gave courtroom testimony describing a red cat, a black dog, and a yellow bird as agents of the Devil who had pressured her into service. Her testimony was treated as credible, detailed evidence — not folklore, but a witness statement.",
+        "<h2>Case on File — Andover</h2>",
         "A widely retold account from Andover holds that an afflicted girl accused a neighbor's dog of tormenting her, and villagers shot the animal on the spot. Only afterward did Cotton Mather reason the dog had likely been innocent all along — if it had truly been Satan in disguise, he argued, it couldn't have died so easily. One of the only acquittals the entire episode produced, and it went to a dog, posthumously. (This specific anecdote isn't part of the surviving official court record — it's filed here as a well-documented historical account, not a courtroom fact, which is why this record is marked verifying rather than verified.)",
-        "The trap for a modern instinct is that naming an animal feels like a victimless move — no person is directly harmed, and you've demonstrated vigilance to a watching community. But a familiar implies an owner. The accusation was never really about the animal; it was a slower-burning way of pointing at whoever the animal belonged to, and the community rarely let it rest there for long."
+        "The trap for a modern instinct is that naming an animal feels like a victimless move — no person is directly harmed, and you've demonstrated vigilance to a watching community. But a familiar implies an owner. The accusation was never really about the animal; it was a slower-burning way of pointing at whoever the animal belonged to, and the community rarely let it rest there for long.",
+        "<h2>The Echo</h2>",
+        "A version of this same reflex resurfaced in the United States three centuries later, during the 'Satanic Panic' of the 1980s and early 1990s. Day-care abuse cases across the country came to include claims that caregivers had involved animals in rituals — in one Southern California case, children accused a defendant of killing a giraffe and an elephant in front of them. A 1994 survey of more than 11,000 psychiatric and police professionals nationwide, conducted for the federal government's National Center on Child Abuse and Neglect, found no substantiated evidence of the large-scale, organized ritual-abuse rings the panic assumed — but by then, dozens of prosecutions had already been built on testimony no more verifiable than Tituba's yellow bird."
       ],
       "orphea": "The cat was never questioned. It still lost.",
       "inGame": "Choice — Report the Cat",
@@ -147,7 +169,9 @@
       "sources": [
         { "label": "Smithsonian Magazine — “Unraveling the Many Mysteries of Tituba, the Star Witness of the Salem Witch Trials”", "url": "https://www.smithsonianmag.com/history/unraveling-mysteries-tituba-salem-witch-trials-180956960/" },
         { "label": "Famous Trials — “Examination of Tituba” (primary-source transcript)", "url": "https://famous-trials.com/salem/2050-asa-titx" },
-        { "label": "The Conversation — “How Dogs Were Implicated During the Salem Witch Trials” (Andover dog anecdote — historical account, not official trial record)", "url": "https://theconversation.com/how-dogs-were-implicated-during-the-salem-witch-trials-239802" }
+        { "label": "The Conversation — “How Dogs Were Implicated During the Salem Witch Trials” (Andover dog anecdote — historical account, not official trial record)", "url": "https://theconversation.com/how-dogs-were-implicated-during-the-salem-witch-trials-239802" },
+        { "label": "Wikipedia — “Day-care sex-abuse hysteria”", "url": "https://en.wikipedia.org/wiki/Day-care_sex-abuse_hysteria" },
+        { "label": "Deseret News (1994) — “Study Finds Little Proof of Satanic Abuse”", "url": "https://www.deseret.com/1994/11/25/19144489/study-finds-little-proof-of-satanic-abuse/" }
       ]
     },
     {
@@ -163,17 +187,24 @@
         ]
       },
       "article": [
+        "<h2>The Mechanism</h2>",
         "A petition of support — neighbors formally attesting, in writing, to the accused's piety and character — was a genuine, commonly used defense strategy in 1692. It is, on its face, exactly what a reasonable community should do for a member in trouble.",
         "Rebecca Nurse, a 71-year-old church member with an established reputation for devoutness, had one of the strongest such petitions on record: 39 neighbors signed in her defense. Her jury initially returned a verdict of not guilty. Under pressure from the afflicted girls' renewed outcry in the courtroom immediately afterward, the judge sent the jury back to reconsider. They returned with a guilty verdict. She was hanged on July 19, 1692.",
+        "<h2>Case on File — John Proctor</h2>",
+        "Nurse wasn't the only defendant with a substantial petition behind her. John Proctor had two: one signed by 32 neighbors who described him as having lived “a Christian life in his family” and being “ever ready to help such as they stood in need,” and a second from Ipswich neighbors who had known him his whole life and judged him innocent “upon our consciences.” One signatory was a relative of the colony's first governor. Proctor was hanged on August 19, 1692, alongside the trials' other convicted men.",
+        "<h2>The Risk of Signing</h2>",
         "Signing a petition wasn't free of risk, either. Attaching your name to a document defending someone already under suspicion could — and in several documented cases did — draw suspicion toward the signers themselves, particularly once the outbreak's logic of association took hold in a given town.",
-        "The trap here runs parallel to the ones in Records 04 and 05: the instinct to mount a reasonable, documented, collective defense assumes the system is capable of being persuaded by evidence. This one wasn't. A show of community support could be overruled by a single renewed fit in the courtroom, and the paper trail it left behind was just as likely to expand the list of suspects as to shrink it."
+        "<h2>The Echo</h2>",
+        "Character references haven't disappeared from courtrooms — if anything, they're standard practice at sentencing, where judges routinely read letters describing a defendant's history and community ties before deciding a punishment. What's changed is the structure around them: they're weighed after a verdict, not used to overturn one, and their credibility now rests on specificity, since a letter that tells one concrete story tends to land harder than a long list of names. In 1692, a show of collective support was still just one more piece of evidence for a jury already primed to convict — thirty-nine signatures for Nurse and thirty-two for Proctor both proved exactly as persuasive as a single renewed scream in the courtroom."
       ],
       "orphea": "Thirty-nine names, and the court still needed only one more scream.",
       "inGame": "Choice — Sign the Petition",
       "sourceTag": "verified",
       "sources": [
         { "label": "Famous Trials — “Rebecca Nurse”", "url": "https://famous-trials.com/salem/2036-sal-bnur" },
-        { "label": "Wikipedia — “Rebecca Nurse”", "url": "https://en.wikipedia.org/wiki/Rebecca_Nurse" }
+        { "label": "Wikipedia — “Rebecca Nurse”", "url": "https://en.wikipedia.org/wiki/Rebecca_Nurse" },
+        { "label": "Wikipedia — “John Proctor (Salem witch trials)”", "url": "https://en.wikipedia.org/wiki/John_Proctor_(Salem_witch_trials)" },
+        { "label": "Phillips Library, Peabody Essex Museum — “Petition in Support of John Proctor and Elizabeth Proctor” (digitized primary source)", "url": "https://pem.quartexcollections.com/Documents/Detail/petition-in-support-of-john-proctor-and-elizabeth-proctor/1310" }
       ]
     },
     {
@@ -189,17 +220,23 @@
         ]
       },
       "article": [
+        "<h2>The Theory</h2>",
         "In 1976, behavioral scientist Linda Caporael published a theory in <em>Science</em> that reframed the entire outbreak as a public health event rather than a moral panic: <strong>ergotism</strong>, poisoning by a fungus (<em>Claviceps purpurea</em>) that grows on damp rye — a dietary staple in colonial Massachusetts that particular growing season.",
         "The symptom list is genuinely striking on paper: convulsions, muscle spasms, a crawling sensation under the skin, vivid hallucinations, vomiting. Caporael cross-referenced weather records (a cold, wet growing season — ideal for the fungus) with the geography of the affected households, and argued the pattern fit disturbingly well.",
+        "<h2>The Rebuttal</h2>",
         "The rebuttal arrived almost immediately, in the same journal, the same year — psychologists Spanos and Gottlieb challenged the medical fit point by point, and most historians today favor a social and political explanation over a biological one: land disputes between the agrarian Salem Village and the more commercially minded Salem Town, a bitter rivalry involving the Putnam family in particular, and a community under genuine strain from a recent smallpox epidemic and frontier war with the Wabanaki.",
-        "We include the ergot theory here because it is real, published, and still cited — not because Orphea has ruled on which explanation is correct. The honest answer is that historians remain split, and the true cause was very likely a tangle of all of the above: a stressed community, a rigid theology, a legal system with no defense against unfalsifiable claims, and — possibly — a genuinely poisoned harvest sitting underneath all of it."
+        "We include the ergot theory here because it is real, published, and still cited — not because Orphea has ruled on which explanation is correct. The honest answer is that historians remain split, and the true cause was very likely a tangle of all of the above: a stressed community, a rigid theology, a legal system with no defense against unfalsifiable claims, and — possibly — a genuinely poisoned harvest sitting underneath all of it.",
+        "<h2>The Echo</h2>",
+        "The same argument — biological cause versus social contagion — replayed almost exactly in Le Roy, New York, in 2011. Roughly twenty students, most of them teenage girls at a single high school, developed sudden tics, verbal outbursts, and seizure-like episodes within weeks of each other. State health investigators found no environmental or infectious cause; doctors ultimately diagnosed most cases as conversion disorder, a real but psychological condition, and the event became a textbook case of mass psychogenic illness spreading through a peer network rather than through water or air. Parents pushed back hard against the ‘hysteria’ framing, much as some historians still push back against Caporael's fungus. Two explanatory instincts — something in the body, or something in the group — keep colliding over symptoms that look, from the outside, identical either way."
       ],
       "orphea": "A tidy explanation. History rarely offers those. File it as a theory, not a verdict.",
       "inGame": "Ending — Ergot Poisoning",
       "sourceTag": "contested",
       "sources": [
         { "label": "Linda Caporael — “Ergotism: The Satan Loosed in Salem,” Science, 1976", "url": null },
-        { "label": "JSTOR Daily — “What Caused the Salem Witch Trials?”", "url": "https://daily.jstor.org/caused-salem-witch-trials/" }
+        { "label": "JSTOR Daily — “What Caused the Salem Witch Trials?”", "url": "https://daily.jstor.org/caused-salem-witch-trials/" },
+        { "label": "New York State Department of Health — “Investigation of Neurologic Symptoms Among Le Roy Jr/Sr High School Students” (official investigation summary)", "url": "https://www.health.ny.gov/press/releases/2012/leroy/docs/investigation_summary.pdf" },
+        { "label": "Wikipedia — “2011 Le Roy, New York illness outbreak”", "url": "https://en.wikipedia.org/wiki/2011_Le_Roy,_New_York_illness_outbreak" }
       ]
     },
     {
@@ -215,17 +252,23 @@
         ]
       },
       "article": [
+        "<h2>The Pattern</h2>",
         "The popular image of a Salem victim is a poor, marginal outsider. The record tells a more uncomfortable story: a conviction opened the door for the condemned's estate to be seized, and that incentive shaped who got accused. Landowners — and especially women positioned to inherit or already holding land outside the usual male chain of ownership — turn up disproportionately in the accusation records.",
         "Philip English, one of Salem's wealthiest merchants, fled with his wife to New York rather than stand trial — a decision that, in hindsight, almost certainly saved both their lives. Even the colony's governor wasn't fully insulated from the climate: Lady Mary Phips, the governor's own wife, was named by an accuser, though the case never proceeded to trial once word reached her husband.",
+        "<h2>Case on File — Giles Corey</h2>",
         "Giles Corey saw the mechanism clearly enough to route around it. Before his own arrest, he legally transferred his land to his sons — a conviction voids a defendant's estate, but you cannot seize what the accused no longer owns. It's very likely part of why he chose silence over a plea when he was eventually arrested himself: a completed trial, even an acquittal, still exposed assets to challenge, while an unresolved case protected the transfer entirely.",
-        "This is also why presenting legal paperwork as a defense could backfire so completely. Producing a deed to prove you were a settled, legitimate property holder simultaneously told the court exactly how much was on the table — and just how much could be gained from a guilty verdict."
+        "This is also why presenting legal paperwork as a defense could backfire so completely. Producing a deed to prove you were a settled, legitimate property holder simultaneously told the court exactly how much was on the table — and just how much could be gained from a guilty verdict.",
+        "<h2>The Echo</h2>",
+        "The mechanism has a direct legal descendant in the United States today: civil asset forfeiture. Under this doctrine, police and prosecutors can seize cash, vehicles, or property they believe is connected to a crime — without charging, let alone convicting, the owner of anything. In roughly forty states, law enforcement agencies keep a share, sometimes all, of what they seize, which critics across the political spectrum have called a direct financial incentive to treat property as guilty before its owner is. A conviction was the trigger in 1692; today, in most of the country, it isn't required at all. Corey's instinct to move his land out of reach before the court could touch it would still be sound legal advice."
       ],
       "orphea": "Notice how rarely the poor were worth accusing.",
       "inGame": "Choice — Present the Land Deed",
       "sourceTag": "verified",
       "sources": [
         { "label": "Wikipedia — “Giles Corey”", "url": "https://en.wikipedia.org/wiki/Giles_Corey" },
-        { "label": "Northeastern University — “Salem witch trials history vs. myth”", "url": "https://news.northeastern.edu/2023/10/18/salem-witch-trials-history-truth" }
+        { "label": "Northeastern University — “Salem witch trials history vs. myth”", "url": "https://news.northeastern.edu/2023/10/18/salem-witch-trials-history-truth" },
+        { "label": "Cornell Law School, Legal Information Institute — “Civil Forfeiture”", "url": "https://www.law.cornell.edu/wex/civil_forfeiture" },
+        { "label": "Institute for Justice — “Ending Civil Forfeiture”", "url": "https://ij.org/issues/private-property/civil-forfeiture/" }
       ]
     },
     {
@@ -241,17 +284,23 @@
         ]
       },
       "article": [
+        "<h2>The Ordeal</h2>",
         "English common law required a defendant to enter a plea before a trial could begin. Giles Corey refused to enter one at all — not guilty, not guilty by reason of anything, nothing. Under the law of the time, the court's remedy for a defendant who ‘stood mute’ was <em>peine forte et dure</em>: the accused was stripped, laid on the ground, and had increasingly heavy stones placed on their chest, day after day, until they entered a plea or died.",
         "Corey held out for two days. Sheriff George Corwin — the same magistrate at the center of much of the trials — reportedly pressed his cane back into Corey's tongue when it protruded from the pressure. Corey's only recorded words, offered when asked again to plead, were an instruction to add more weight. He died on September 19, 1692, the only person in American history known to have been executed by pressing.",
+        "<h2>The Calculation</h2>",
         "The reasoning behind his silence was entirely deliberate, not defiance for its own sake. A conviction meant the Crown could seize a defendant's estate; a case that never reached verdict left nothing to seize. Corey had already transferred his land to his sons beforehand — his death sealed the arrangement completely, since an unresolved case gave the court no legal claim on property that was, by then, no longer his to begin with.",
-        "His wife, Martha Corey, was tried separately around the same time, convicted, and hanged. Husband pressed under stone, wife dropped from a gallows, within weeks of each other — one of the trials' starkest single-family losses."
+        "His wife, Martha Corey, was tried separately around the same time, convicted, and hanged. Husband pressed under stone, wife dropped from a gallows, within weeks of each other — one of the trials' starkest single-family losses.",
+        "<h2>The Echo</h2>",
+        "Peine forte et dure itself didn't survive much longer — Britain abolished it in 1772, and from that point on, standing mute was simply treated as a guilty plea. Modern American courts inherited the same underlying problem — a defendant who refuses to plead at all — and solved it without stones: under Rule 11 of the Federal Rules of Criminal Procedure, if a defendant won't enter a plea, the court is required to enter one of not guilty on their behalf and move the case forward. Corey's silence would still work today as a legal strategy. It just wouldn't have to kill him to succeed."
       ],
       "orphea": "He died to keep a farm out of my ledger. It worked.",
       "inGame": "Ending — Refusing to Plead",
       "sourceTag": "verified",
       "sources": [
         { "label": "Library of Congress — “The Crushing Death of Giles Corey of Salem, 1692”", "url": "https://blogs.loc.gov/law/2020/10/the-crushing-death-of-giles-corey-of-salem-1692/" },
-        { "label": "Wikipedia — “Giles Corey”", "url": "https://en.wikipedia.org/wiki/Giles_Corey" }
+        { "label": "Wikipedia — “Giles Corey”", "url": "https://en.wikipedia.org/wiki/Giles_Corey" },
+        { "label": "Britannica — “Peine Forte et Dure”", "url": "https://www.britannica.com/topic/peine-forte-et-dure" },
+        { "label": "Cornell Law School, Legal Information Institute — “Rule 11. Pleas,” Federal Rules of Criminal Procedure", "url": "https://www.law.cornell.edu/rules/frcrmp/rule_11" }
       ]
     },
     {
@@ -267,16 +316,22 @@
         ]
       },
       "article": [
+        "<h2>The Doctrine</h2>",
         "Under English common law, a woman convicted of a capital crime who was found to be ‘quick with child’ — pregnant, past the point of detectable movement — received an automatic stay of execution until after she gave birth. The principle predates the witch trials by centuries and had nothing to do with mercy for the mother specifically: it existed to avoid punishing an unborn child for a crime it hadn't committed.",
+        "<h2>Case on File — Elizabeth Proctor</h2>",
         "Elizabeth Proctor was one of the most prominent people caught in the outbreak. Her husband, John Proctor, was convicted alongside her and hanged on August 19, 1692 — one of the few men executed in the trials, and one whose blunt public skepticism of the girls' fits (see: Record 04) very likely accelerated his own conviction.",
         "Elizabeth's sentence was stayed on account of her pregnancy. What saved her, in the end, wasn't leniency — it was timing. Spectral evidence was barred from the courts that October, the special court was dissolved, and by the time her case would have come back around for execution, the entire apparatus of the trials had collapsed. She gave birth, and eventually walked free.",
-        "It's worth being precise about what the exception actually was: a postponement with a clock attached, not a pardon. Had the trials continued running on their original schedule a few months longer, the stay would very likely have run out before it saved her."
+        "It's worth being precise about what the exception actually was: a postponement with a clock attached, not a pardon. Had the trials continued running on their original schedule a few months longer, the stay would very likely have run out before it saved her.",
+        "<h2>The Echo</h2>",
+        "The doctrine didn't end with the Proctors, or with the eighteenth century. Federal law today — 18 U.S. Code § 3596 — states plainly that a sentence of death shall not be carried out on a woman while she is pregnant, and twenty-five U.S. states carry near-identical language on their own books. The reasoning hasn't moved much in three hundred years: the law still isn't protecting the mother so much as refusing to punish a child for a sentence it didn't earn. What has changed is how seriously the gap between statute and practice gets taken — researchers have found that in roughly half of the states with these laws, actual execution protocols never mention pregnancy at all, meaning the protection exists on paper well before anyone has worked out how it would function in the death chamber. Elizabeth Proctor's stay worked because the entire system collapsed before her clock ran out. The law never promises that outcome. It only promises the postponement."
       ],
       "orphea": "A delay is not mercy. It's scheduling.",
       "inGame": "Mentioned before the final verdict",
       "sourceTag": "verified",
       "sources": [
-        { "label": "History.com — “Salem Witch Trials”", "url": "https://www.history.com/articles/salem-witch-trials" }
+        { "label": "History.com — “Salem Witch Trials”", "url": "https://www.history.com/articles/salem-witch-trials" },
+        { "label": "Cornell Law School, Legal Information Institute — “18 U.S. Code § 3596”", "url": "https://www.law.cornell.edu/uscode/text/18/3596" },
+        { "label": "University of Minnesota, Leadership Ed. in Maternal & Child Public Health — “State Laws on the Death Penalty for People Who Are Pregnant While Incarcerated”", "url": "https://mch.umn.edu/death-penalty/" }
       ]
     }
   ]
