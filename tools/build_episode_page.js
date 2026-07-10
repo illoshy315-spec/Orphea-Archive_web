@@ -95,7 +95,9 @@ console.log('wrote', path.join(outRoot, 'index.html'));
 
 // ---------- One full article page per fact ----------
 for (const fact of data.facts) {
-  const articleHtml = fact.article.map(p => `    <p>${p}</p>`).join('\n');
+  const articleHtml = fact.article.map(p =>
+    p.trim().startsWith('<h2') ? `    ${p}` : `    <p>${p}</p>`
+  ).join('\n');
   const sourcesHtml = fact.sources.map(s =>
     s.url ? `<a href="${s.url}" target="_blank" rel="noopener nofollow">${s.label}</a>` : s.label
   ).join(' &nbsp;·&nbsp; ');
@@ -116,7 +118,7 @@ for (const fact of data.facts) {
 
   <div class="card" id="${fact.slug}" style="margin-top: 1.5rem;">
     <div class="fact-no">${fact.no} <span class="flourish">·</span> ${fact.eyebrow}</div>
-    <h2>${fact.title}</h2>
+    <h1>${fact.title}</h1>
     <p class="hook">${fact.card.hook}</p>
 ${articleHtml}
     <div class="orphea-note">
