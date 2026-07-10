@@ -305,15 +305,17 @@ footer.site-footer .footer-links { display: flex; gap: 1.2rem; justify-content: 
 /* ---------- Fact teaser row (episode TOC — links out to the fact's own page) ---------- */
 /* Deliberately high-contrast: this must read as "clickable card", not as page prose. */
 .teaser-row {
-  display: block; border: 1px solid var(--border-lit); border-radius: var(--radius);
+  display: block; border: 1px solid var(--border-lit); border-left: 3px solid var(--gold);
+  border-radius: var(--radius);
   padding: 1.4rem 1.7rem; margin-bottom: 1rem;
-  background: linear-gradient(180deg, rgba(184,150,79,0.05), transparent 50%), var(--surface-2);
-  box-shadow: 0 6px 16px rgba(0,0,0,0.3);
-  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  background: linear-gradient(180deg, rgba(184,150,79,0.08), transparent 60%), var(--surface-2);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.45), 0 0 0 1px rgba(184,150,79,0.06) inset;
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
 }
 .teaser-row:hover {
-  border-color: var(--gold); transform: translateX(2px);
-  box-shadow: 0 6px 20px rgba(184,150,79,0.15);
+  border-color: var(--gold-bright); border-left-color: var(--gold-bright); transform: translateX(2px);
+  background: linear-gradient(180deg, rgba(184,150,79,0.14), transparent 60%), var(--surface-2);
+  box-shadow: 0 6px 20px rgba(184,150,79,0.25), 0 0 0 1px rgba(184,150,79,0.06) inset;
 }
 .teaser-row .fact-no { margin-bottom: 0.5rem; }
 .teaser-row h3 {
