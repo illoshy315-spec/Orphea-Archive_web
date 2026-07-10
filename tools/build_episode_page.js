@@ -27,6 +27,8 @@ function pageShell(title, description, canonicalPath, bodyHtml) {
   <meta property="og:url" content="https://orpheaarchive.com${canonicalPath}" />
   <link rel="canonical" href="https://orpheaarchive.com${canonicalPath}" />
   <link rel="stylesheet" href="/archive.css" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1630656616746043"
+     crossorigin="anonymous"></script>
 </head>
 <body>
 <div class="site-nav">
