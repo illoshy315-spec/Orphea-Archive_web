@@ -44,6 +44,7 @@ const teasers = data.facts.map(fact => `
     <div class="fact-no">${fact.no} <span class="flourish">·</span> ${fact.eyebrow}</div>
     <h3>${fact.title}</h3>
     <p class="hook">${fact.card.hook}</p>
+    <div class="read-more">Read the full record →</div>
   </a>`).join('\n');
 
 const hubBody = `
@@ -111,7 +112,6 @@ ${articleHtml}
     <div class="sources"><span class="tag">${TAG_LABEL[fact.sourceTag] || fact.sourceTag}</span>${sourcesHtml}</div>
     <div class="card-footer">
       <span class="ending-tag">In-game: ${fact.inGame || 'referenced in the simulation'}</span>
-      <a class="card-link" href="/archive/${ep.slug}/cards/${fact.slug}.html">View as card →</a>
     </div>
   </div>
 ${prevNextNav}

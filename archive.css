@@ -272,12 +272,18 @@ footer.site-footer a { color: var(--text-dim); }
 }
 
 /* ---------- Fact teaser row (episode TOC — links out to the fact's own page) ---------- */
+/* Deliberately high-contrast: this must read as "clickable card", not as page prose. */
 .teaser-row {
-  display: block; border: 1px solid var(--border); border-radius: var(--radius);
-  padding: 1.4rem 1.7rem; margin-bottom: 1rem; background: var(--surface);
-  transition: border-color 0.2s ease, transform 0.2s ease;
+  display: block; border: 1px solid var(--border-lit); border-radius: var(--radius);
+  padding: 1.4rem 1.7rem; margin-bottom: 1rem;
+  background: linear-gradient(180deg, rgba(184,150,79,0.05), transparent 50%), var(--surface-2);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.3);
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
 }
-.teaser-row:hover { border-color: var(--border-lit); transform: translateX(2px); }
+.teaser-row:hover {
+  border-color: var(--gold); transform: translateX(2px);
+  box-shadow: 0 6px 20px rgba(184,150,79,0.15);
+}
 .teaser-row .fact-no { margin-bottom: 0.5rem; }
 .teaser-row h3 {
   font-family: var(--display); font-weight: 600; color: var(--text-bright);
@@ -285,7 +291,11 @@ footer.site-footer a { color: var(--text-dim); }
 }
 .teaser-row .hook {
   font-family: var(--serif); font-style: italic; color: var(--text-dim);
-  font-size: 0.95rem; margin-bottom: 0;
+  font-size: 0.95rem; margin-bottom: 0.9rem;
+}
+.teaser-row .read-more {
+  font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--gold);
 }
 
 @media (max-width: 560px) {
