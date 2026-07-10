@@ -52,9 +52,18 @@
       transition: background 0.2s ease, color 0.2s ease;
     }
     .archive-link:hover { background: var(--gold-glow); color: var(--gold-bright); border-color: var(--gold); }
+    .site-nav { position: fixed; top: 0; left: 0; right: 0; padding: 1.2rem 1.5rem; margin: 0; max-width: none; }
   </style>
 </head>
 <body>
+  <div class="site-nav">
+    <a class="brand" href="/">ORPHEA ARCHIVE</a>
+    <div class="links">
+      <a href="/archive/">The Archive</a>
+      <a href="/about/">About</a>
+    </div>
+  </div>
+
   <div class="container">
 
     <div class="eyebrow ornament">Archive Oculus — Records Retrieval<span class="cursor-blink"></span></div>
@@ -73,12 +82,19 @@
       <div class="attribution">— Orphea, Archive Administrator</div>
     </div>
 
-    <div class="sub-copy">Records are being compiled. Access granted soon.</div>
+    <div class="sub-copy">Full instance access: pending. The compiled archive is already open.</div>
 
-    <a class="archive-link" href="/archive/">→ Compiled Records Available</a>
+    <a class="archive-link" href="/archive/">→ Enter the Archive</a>
 
   </div>
 
-  <footer class="site-footer" style="position: fixed; bottom: 1.5rem; left: 0; right: 0; margin: 0; border: none; padding: 0;">© Orphea Archive. All records are preserved.</footer>
+  <footer class="site-footer" style="position: fixed; bottom: 1rem; left: 0; right: 0; margin: 0; border: none; padding: 0;">
+    <div class="footer-links">
+      <a href="/about/">About</a>
+      <a href="/privacy/">Privacy</a>
+      <a href="mailto:orpheaarchive@gmail.com">Contact</a>
+    </div>
+    © Orphea Archive. All records are preserved.
+  </footer>
 </body>
 </html>

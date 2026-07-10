@@ -11,6 +11,7 @@ const factFiles = fs.readdirSync(toolsDir).filter(f => f.endsWith('-facts.json')
 const urls = [
   { loc: 'https://orpheaarchive.com/', priority: '1.0', changefreq: 'monthly' },
   { loc: 'https://orpheaarchive.com/archive/', priority: '0.9', changefreq: 'monthly' },
+  { loc: 'https://orpheaarchive.com/about/', priority: '0.5', changefreq: 'yearly' },
 ];
 
 for (const file of factFiles) {

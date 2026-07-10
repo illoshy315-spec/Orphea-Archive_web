@@ -29,9 +29,23 @@ function pageShell(title, description, canonicalPath, bodyHtml) {
   <link rel="stylesheet" href="/archive.css" />
 </head>
 <body>
+<div class="site-nav">
+  <a class="brand" href="/">ORPHEA ARCHIVE</a>
+  <div class="links">
+    <a href="/archive/">The Archive</a>
+    <a href="/about/">About</a>
+  </div>
+</div>
 <div class="wrap">
 ${bodyHtml}
-  <footer class="site-footer">© Orphea Archive. All records are preserved.</footer>
+  <footer class="site-footer">
+    <div class="footer-links">
+      <a href="/about/">About</a>
+      <a href="/privacy/">Privacy</a>
+      <a href="mailto:orpheaarchive@gmail.com">Contact</a>
+    </div>
+    © Orphea Archive. All records are preserved.
+  </footer>
 </div>
 </body>
 </html>
