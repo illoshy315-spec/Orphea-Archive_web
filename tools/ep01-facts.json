@@ -56,9 +56,10 @@
       ],
       "orphea": "A test with only one correct outcome isn't a test. It's theater with paperwork.",
       "inGame": "The courtroom touch test",
-      "sourceTag": "verifying",
+      "sourceTag": "verified",
       "sources": [
-        { "label": "Consistent with period accounts of courtroom procedure in the Court of Oyer and Terminer — direct primary-source citation pending", "url": null }
+        { "label": "Famous Trials (Univ. of Missouri–KC Law) — “An Account of the Salem Witchcraft Investigations, Trials, and Aftermath”", "url": "http://law2.umkc.edu/faculty/projects/ftrials/salem/sal_acct.htm" },
+        { "label": "The Monastery — “7 Strange and Barbaric Witch Tests Used in the Salem Witch Trials”", "url": "https://www.themonastery.org/blog/seven-strange-and-barbaric-witch-tests-used-in-the-salem-witch-trials" }
       ]
     },
     {
@@ -110,8 +111,8 @@
       "inGame": "Ending — Calling Out the Girls",
       "sourceTag": "verified",
       "sources": [
-        { "label": "History.com — “Salem Witch Trials”", "url": "https://www.history.com/articles/salem-witch-trials" },
-        { "label": "Fact pattern documented in the trial record of Rev. George Burroughs" , "url": null }
+        { "label": "Wikipedia — “George Burroughs”", "url": "https://en.wikipedia.org/wiki/George_Burroughs" },
+        { "label": "History of Massachusetts Blog — “The Witchcraft Trial of Reverend George Burroughs”", "url": "https://historyofmassachusetts.org/reverend-george-burroughs-salem/" }
       ]
     },
     {
@@ -129,15 +130,16 @@
       "article": [
         "A <strong>familiar</strong>, in the theology behind the trials, was an imp or minor demon a witch kept as a servant — most often described in the shape of a cat, dog, or bird. Reporting a neighbor's animal as suspicious wasn't a fringe accusation; it was one of the most ordinary moves available to a frightened colonist, requiring no confrontation with a person at all.",
         "Tituba, the first person to confess in the outbreak, gave courtroom testimony describing a red cat, a black dog, and a yellow bird as agents of the Devil who had pressured her into service. Her testimony was treated as credible, detailed evidence — not folklore, but a witness statement.",
-        "In Andover, a dog was formally accused of being a witch's familiar and killed on the spot as a suspected accomplice. Cotton Mather himself later wrote that the animal had very likely been innocent — one of the only acquittals the entire episode produced, and it went to a dog, posthumously.",
+        "A widely retold account from Andover holds that an afflicted girl accused a neighbor's dog of tormenting her, and villagers shot the animal on the spot. Only afterward did Cotton Mather reason the dog had likely been innocent all along — if it had truly been Satan in disguise, he argued, it couldn't have died so easily. One of the only acquittals the entire episode produced, and it went to a dog, posthumously. (This specific anecdote isn't part of the surviving official court record — it's filed here as a well-documented historical account, not a courtroom fact, which is why this record is marked verifying rather than verified.)",
         "The trap for a modern instinct is that naming an animal feels like a victimless move — no person is directly harmed, and you've demonstrated vigilance to a watching community. But a familiar implies an owner. The accusation was never really about the animal; it was a slower-burning way of pointing at whoever the animal belonged to, and the community rarely let it rest there for long."
       ],
       "orphea": "The cat was never questioned. It still lost.",
       "inGame": "Choice — Report the Cat",
-      "sourceTag": "verified",
+      "sourceTag": "verifying",
       "sources": [
-        { "label": "History of Massachusetts — courtroom testimony records", "url": null },
-        { "label": "Tituba's testimony is treated as primary-source material across mainstream Salem trial scholarship", "url": null }
+        { "label": "Smithsonian Magazine — “Unraveling the Many Mysteries of Tituba, the Star Witness of the Salem Witch Trials”", "url": "https://www.smithsonianmag.com/history/unraveling-mysteries-tituba-salem-witch-trials-180956960/" },
+        { "label": "Famous Trials — “Examination of Tituba” (primary-source transcript)", "url": "https://famous-trials.com/salem/2050-asa-titx" },
+        { "label": "The Conversation — “How Dogs Were Implicated During the Salem Witch Trials” (Andover dog anecdote — historical account, not official trial record)", "url": "https://theconversation.com/how-dogs-were-implicated-during-the-salem-witch-trials-239802" }
       ]
     },
     {
@@ -162,8 +164,8 @@
       "inGame": "Choice — Sign the Petition",
       "sourceTag": "verified",
       "sources": [
-        { "label": "Britannica — “Salem Witch Trials”", "url": "https://www.britannica.com/event/salem-witch-trials/The-trials" },
-        { "label": "Rebecca Nurse's petition and jury reversal are documented in primary Massachusetts court records", "url": null }
+        { "label": "Famous Trials — “Rebecca Nurse”", "url": "https://famous-trials.com/salem/2036-sal-bnur" },
+        { "label": "Wikipedia — “Rebecca Nurse”", "url": "https://en.wikipedia.org/wiki/Rebecca_Nurse" }
       ]
     },
     {
