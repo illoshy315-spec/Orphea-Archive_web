@@ -4,7 +4,8 @@
     "label": "Instance 01 — Massachusetts Bay, 1692",
     "title": "Salem Witch Trials",
     "subtitle": "You were not wrong to think you'd survive. That was the trap.",
-    "intro": "In the simulation, every choice that looked reasonable — and killed you anyway — was drawn from an actual courtroom in 1692. Between February 1692 and May 1693, roughly 200 people across Massachusetts Bay were formally accused of witchcraft. Nineteen were hanged. One was crushed to death under stones for refusing to enter a plea. At least five more died in jail waiting for a trial that never came. Eight of the mechanisms behind those numbers are footnoted below, with sources."
+    "orphea_intro": "I don't editorialize. I compile. Every trap in this instance is filed below, with the paperwork attached — because unlike the court that ran this simulation the first time, I don't ask you to take anything on faith.",
+    "intro": "Between February 1692 and May 1693, roughly 200 people across Massachusetts Bay were formally accused of witchcraft. Nineteen were hanged. One was crushed to death under stones for refusing to enter a plea. At least five more died in jail waiting for a trial that never came. Ten of the mechanisms behind those numbers are filed below, with sources."
   },
   "facts": [
     {
@@ -26,6 +27,8 @@
         "The practice didn't go unchallenged even at the time. Cotton Mather's own father, Increase Mather, argued in his 1692 pamphlet <em>Cases of Conscience Concerning Evil Spirits</em> that it was better for ten suspected witches to escape than for one innocent person to be condemned on such grounds. His argument helped tip the scales — Governor Phips formally barred spectral evidence from the court in October 1692, and the trials collapsed within months.",
         "By then, nineteen people had already been hanged on exactly this kind of testimony."
       ],
+      "orphea": "Unfalsifiable accusations remain popular. You'll notice the format survived the century.",
+      "inGame": "Every interrogation",
       "sourceTag": "verified",
       "sources": [
         { "label": "Smithsonian Magazine — “A Brief History of the Salem Witch Trials”", "url": "https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/" },
@@ -51,6 +54,8 @@
         "And the alternative was no better. Refusing to perform the test at all was read as a witch too cunning, or too afraid of exposure, to risk the contact. There was no third option — no way to stand in that room and have the outcome read as innocence.",
         "It's worth sitting with what the test actually demonstrates, watched from three centuries away: a legal proceeding that built its central piece of evidence around a performance it could not lose."
       ],
+      "orphea": "A test with only one correct outcome isn't a test. It's theater with paperwork.",
+      "inGame": "The courtroom touch test",
       "sourceTag": "verifying",
       "sources": [
         { "label": "Consistent with period accounts of courtroom procedure in the Court of Oyer and Terminer — direct primary-source citation pending", "url": null }
@@ -75,6 +80,8 @@
         "That second gear is a large part of why the outbreak grew as fast as it did. Each confession-with-names produced new suspects, who faced the same two doors: confess and implicate others, or maintain innocence and hang. The incentive structure manufactured its own fuel.",
         "It's the single clearest data point from the entire episode: in a system built to detect and punish witchcraft, telling the truth was the most lethal thing a defendant could do."
       ],
+      "orphea": "Every survivor in this file lied under oath. Make of that what you will.",
+      "inGame": "Ending — Claiming Innocence",
       "sourceTag": "verified",
       "sources": [
         { "label": "Britannica — “Salem Witch Trials: The Trials”", "url": "https://www.britannica.com/event/salem-witch-trials/The-trials" },
@@ -99,6 +106,8 @@
         "The Reverend George Burroughs is the sharpest example. A former minister at Salem Village, he was accused of being the ringleader of the entire witch conspiracy — a claim with essentially no coherent evidence behind it beyond the girls' fits. At his execution, he recited the Lord's Prayer flawlessly from the gallows — something Puritans widely believed a true witch could never do — and the crowd nearly turned in his favor on the spot. Cotton Mather, present on horseback, intervened publicly to remind the crowd that the Devil could still disguise himself as an angel of light. Burroughs was hanged minutes later.",
         "The lesson embedded in that moment is the same one embedded in the touch test and in spectral evidence generally: the court wasn't actually weighing arguments against each other. It was running a machine that had already decided its output, and logic aimed at the machine simply became one more data point for the machine to process."
       ],
+      "orphea": "Correct, and dead. An underrated combination.",
+      "inGame": "Ending — Calling Out the Girls",
       "sourceTag": "verified",
       "sources": [
         { "label": "History.com — “Salem Witch Trials”", "url": "https://www.history.com/articles/salem-witch-trials" },
@@ -106,8 +115,60 @@
       ]
     },
     {
-      "slug": "ergot-poisoning",
+      "slug": "animal-familiar",
       "no": "Record 05",
+      "eyebrow": "Redirecting Suspicion",
+      "title": "Report your neighbor's cat, and it's a perfectly normal Tuesday",
+      "card": {
+        "hook": "Naming an animal as a witch's accomplice was standard practice. It didn't end with the animal.",
+        "body": [
+          "Witches were believed to keep “familiars” — imps in animal form, usually a cat, dog, or bird, sent to do their bidding. Accusing a neighbor's animal was a routine, socially acceptable move.",
+          "But a familiar needs an owner. The accusation never really stopped at the animal — it was a detour on the way to a person."
+        ]
+      },
+      "article": [
+        "A <strong>familiar</strong>, in the theology behind the trials, was an imp or minor demon a witch kept as a servant — most often described in the shape of a cat, dog, or bird. Reporting a neighbor's animal as suspicious wasn't a fringe accusation; it was one of the most ordinary moves available to a frightened colonist, requiring no confrontation with a person at all.",
+        "Tituba, the first person to confess in the outbreak, gave courtroom testimony describing a red cat, a black dog, and a yellow bird as agents of the Devil who had pressured her into service. Her testimony was treated as credible, detailed evidence — not folklore, but a witness statement.",
+        "In Andover, a dog was formally accused of being a witch's familiar and killed on the spot as a suspected accomplice. Cotton Mather himself later wrote that the animal had very likely been innocent — one of the only acquittals the entire episode produced, and it went to a dog, posthumously.",
+        "The trap for a modern instinct is that naming an animal feels like a victimless move — no person is directly harmed, and you've demonstrated vigilance to a watching community. But a familiar implies an owner. The accusation was never really about the animal; it was a slower-burning way of pointing at whoever the animal belonged to, and the community rarely let it rest there for long."
+      ],
+      "orphea": "The cat was never questioned. It still lost.",
+      "inGame": "Choice — Report the Cat",
+      "sourceTag": "verified",
+      "sources": [
+        { "label": "History of Massachusetts — courtroom testimony records", "url": null },
+        { "label": "Tituba's testimony is treated as primary-source material across mainstream Salem trial scholarship", "url": null }
+      ]
+    },
+    {
+      "slug": "petitions-backfire",
+      "no": "Record 06",
+      "eyebrow": "A Defense With Its Own Price",
+      "title": "Vouching for a neighbor could put your own name in the file",
+      "card": {
+        "hook": "Rebecca Nurse had 39 signatures testifying to her character. She was hanged anyway.",
+        "body": [
+          "Community petitions attesting to an accused person's good character were a real, documented defense strategy — and a reasonable one.",
+          "They didn't reliably work, and signing one carried its own quiet risk: associating your name with someone already under suspicion."
+        ]
+      },
+      "article": [
+        "A petition of support — neighbors formally attesting, in writing, to the accused's piety and character — was a genuine, commonly used defense strategy in 1692. It is, on its face, exactly what a reasonable community should do for a member in trouble.",
+        "Rebecca Nurse, a 71-year-old church member with an established reputation for devoutness, had one of the strongest such petitions on record: 39 neighbors signed in her defense. Her jury initially returned a verdict of not guilty. Under pressure from the afflicted girls' renewed outcry in the courtroom immediately afterward, the judge sent the jury back to reconsider. They returned with a guilty verdict. She was hanged on July 19, 1692.",
+        "Signing a petition wasn't free of risk, either. Attaching your name to a document defending someone already under suspicion could — and in several documented cases did — draw suspicion toward the signers themselves, particularly once the outbreak's logic of association took hold in a given town.",
+        "The trap here runs parallel to the ones in Records 04 and 05: the instinct to mount a reasonable, documented, collective defense assumes the system is capable of being persuaded by evidence. This one wasn't. A show of community support could be overruled by a single renewed fit in the courtroom, and the paper trail it left behind was just as likely to expand the list of suspects as to shrink it."
+      ],
+      "orphea": "Thirty-nine names, and the court still needed only one more scream.",
+      "inGame": "Choice — Sign the Petition",
+      "sourceTag": "verified",
+      "sources": [
+        { "label": "Britannica — “Salem Witch Trials”", "url": "https://www.britannica.com/event/salem-witch-trials/The-trials" },
+        { "label": "Rebecca Nurse's petition and jury reversal are documented in primary Massachusetts court records", "url": null }
+      ]
+    },
+    {
+      "slug": "ergot-poisoning",
+      "no": "Record 07",
       "eyebrow": "A Debated Theory",
       "title": "Maybe it wasn’t witchcraft. Maybe it was breakfast.",
       "card": {
@@ -123,6 +184,8 @@
         "The rebuttal arrived almost immediately, in the same journal, the same year — psychologists Spanos and Gottlieb challenged the medical fit point by point, and most historians today favor a social and political explanation over a biological one: land disputes between the agrarian Salem Village and the more commercially minded Salem Town, a bitter rivalry involving the Putnam family in particular, and a community under genuine strain from a recent smallpox epidemic and frontier war with the Wabanaki.",
         "We include the ergot theory here because it is real, published, and still cited — not because Orphea has ruled on which explanation is correct. The honest answer is that historians remain split, and the true cause was very likely a tangle of all of the above: a stressed community, a rigid theology, a legal system with no defense against unfalsifiable claims, and — possibly — a genuinely poisoned harvest sitting underneath all of it."
       ],
+      "orphea": "A tidy explanation. History rarely offers those. File it as a theory, not a verdict.",
+      "inGame": "Ending — Ergot Poisoning",
       "sourceTag": "contested",
       "sources": [
         { "label": "Linda Caporael — “Ergotism: The Satan Loosed in Salem,” Science, 1976", "url": null },
@@ -131,7 +194,7 @@
     },
     {
       "slug": "property-motive",
-      "no": "Record 06",
+      "no": "Record 08",
       "eyebrow": "Who Actually Got Accused",
       "title": "The more land you owned, the more likely you were a witch",
       "card": {
@@ -147,6 +210,8 @@
         "Giles Corey saw the mechanism clearly enough to route around it. Before his own arrest, he legally transferred his land to his sons — a conviction voids a defendant's estate, but you cannot seize what the accused no longer owns. It's very likely part of why he chose silence over a plea when he was eventually arrested himself: a completed trial, even an acquittal, still exposed assets to challenge, while an unresolved case protected the transfer entirely.",
         "This is also why presenting legal paperwork as a defense could backfire so completely. Producing a deed to prove you were a settled, legitimate property holder simultaneously told the court exactly how much was on the table — and just how much could be gained from a guilty verdict."
       ],
+      "orphea": "Notice how rarely the poor were worth accusing.",
+      "inGame": "Choice — Present the Land Deed",
       "sourceTag": "verified",
       "sources": [
         { "label": "Wikipedia — “Giles Corey”", "url": "https://en.wikipedia.org/wiki/Giles_Corey" },
@@ -155,7 +220,7 @@
     },
     {
       "slug": "peine-forte-et-dure",
-      "no": "Record 07",
+      "no": "Record 09",
       "eyebrow": "The Third Option",
       "title": "Refuse to plead, and they add weight. Literally.",
       "card": {
@@ -171,6 +236,8 @@
         "The reasoning behind his silence was entirely deliberate, not defiance for its own sake. A conviction meant the Crown could seize a defendant's estate; a case that never reached verdict left nothing to seize. Corey had already transferred his land to his sons beforehand — his death sealed the arrangement completely, since an unresolved case gave the court no legal claim on property that was, by then, no longer his to begin with.",
         "His wife, Martha Corey, was tried separately around the same time, convicted, and hanged. Husband pressed under stone, wife dropped from a gallows, within weeks of each other — one of the trials' starkest single-family losses."
       ],
+      "orphea": "He died to keep a farm out of my ledger. It worked.",
+      "inGame": "Ending — Refusing to Plead",
       "sourceTag": "verified",
       "sources": [
         { "label": "Library of Congress — “The Crushing Death of Giles Corey of Salem, 1692”", "url": "https://blogs.loc.gov/law/2020/10/the-crushing-death-of-giles-corey-of-salem-1692/" },
@@ -179,7 +246,7 @@
     },
     {
       "slug": "pregnancy-exception",
-      "no": "Record 08",
+      "no": "Record 10",
       "eyebrow": "A Delay, Not a Pardon",
       "title": "Pregnancy bought you time. Not your life.",
       "card": {
@@ -195,6 +262,8 @@
         "Elizabeth's sentence was stayed on account of her pregnancy. What saved her, in the end, wasn't leniency — it was timing. Spectral evidence was barred from the courts that October, the special court was dissolved, and by the time her case would have come back around for execution, the entire apparatus of the trials had collapsed. She gave birth, and eventually walked free.",
         "It's worth being precise about what the exception actually was: a postponement with a clock attached, not a pardon. Had the trials continued running on their original schedule a few months longer, the stay would very likely have run out before it saved her."
       ],
+      "orphea": "A delay is not mercy. It's scheduling.",
+      "inGame": "Mentioned before the final verdict",
       "sourceTag": "verified",
       "sources": [
         { "label": "History.com — “Salem Witch Trials”", "url": "https://www.history.com/articles/salem-witch-trials" }
