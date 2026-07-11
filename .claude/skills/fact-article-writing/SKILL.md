@@ -72,6 +72,10 @@ These are patterns that were specifically flagged as making otherwise-solid pros
 
 A local edit that looks correct in isolation can still break the paragraph before or after it (redundant climaxes, orphaned callback terms, abrupt transitions where a bridge sentence was deleted). After any edit — even a "small" one — reread the entire article top to bottom, and check it against records that reference the same people or events (e.g. property-motive and peine-forte-et-dure both cover Giles Corey's land transfer; confess-to-survive and peine-forte-et-dure both need to agree that Corey was never convicted). Cross-record contradictions are easy to introduce and easy to miss if you only look at the one record you're editing.
 
-## 8. Push discipline
+## 8. Don't forget `card.hook` / `card.body` — the Instagram card fields
+
+Every fact also needs `card.hook` (one line) and `card.body` (2–3 short sentences) filled in the *same* pass as the article — these feed `tools/build_cards.js` to generate the Instagram card image. Same voice as the article (documentary tone, not Orphea's), just compressed to hook-and-punchline length. There's no separate writing pass or persona for this — if you write the article and skip these fields, the card generator has nothing to work with.
+
+## 9. Push discipline
 
 `Orphea-Archive_web` auto-deploys to the live site on `git push`. Per the standing project rule: commit locally as you go, but do not `git push` new/changed *content* (article text, new pages, copy changes) until the user has actually read it and said go. Bug fixes and structural changes the user explicitly asked for don't need this extra confirmation loop — only newly-authored content does.
