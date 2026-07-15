@@ -72,6 +72,8 @@ The article body is written in a neutral documentary/historian voice — it's "t
 
 If you rework the body's argument (e.g. add or remove the concept an `orphea` line references, like "unfalsifiable"), check that the `orphea` note still has something in the body to call back to. An edit that quietly orphans the callback term is a coherence bug, not a style nitpick.
 
+**One-read rule for the `orphea` note (added 2026-07-15, direct user feedback).** The cynicism must land on the first read, with no decoding. The note is a lone line in a callout box — unlike the article body, nothing around it can rescue an ambiguity. Caught in EP02: "The instructions were clear, and the people who gave them were already on the road" — the user's reaction was literally "무슨 뜻이야?", because "on the road" required reconstructing an unstated referent (the road = the escape route; the point = the masters fled while ordering others to stay). Fixed to name the act outright: "“Stay and guard the house” — the kind of order you can only give on your way out the door." Test before finishing: read the note as someone who only skimmed the article. If the target of the jab (who did what) isn't identifiable in one pass, rewrite it to name the act. Dry is the brand; cryptic is a bug. Subtle-but-famous idioms (e.g. "Pompeii became a word") pass; two-step inferences with implied actors do not.
+
 ## 6. AI-tic checklist — read the whole thing back before calling it done
 
 These are patterns that were specifically flagged as making otherwise-solid prose read as AI-generated. Before finishing a fact, scan for:
