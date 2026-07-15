@@ -2,85 +2,151 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://orpheaarchive.com/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/about/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/salem-witch-trials-1692/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/salem-witch-trials-1692/spectral-evidence/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/salem-witch-trials-1692/touch-test/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/salem-witch-trials-1692/confess-to-survive/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/salem-witch-trials-1692/accusing-the-accusers/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/salem-witch-trials-1692/animal-familiar/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/salem-witch-trials-1692/petitions-backfire/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/salem-witch-trials-1692/ergot-poisoning/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/salem-witch-trials-1692/property-motive/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/salem-witch-trials-1692/peine-forte-et-dure/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://orpheaarchive.com/archive/salem-witch-trials-1692/pregnancy-exception/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://orpheaarchive.com/archive/pompeii-79-ad/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://orpheaarchive.com/archive/pompeii-79-ad/shelter-trap/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://orpheaarchive.com/archive/pompeii-79-ad/boat-rescue/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://orpheaarchive.com/archive/pompeii-79-ad/packing-delay/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://orpheaarchive.com/archive/pompeii-79-ad/normalcy-bias/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://orpheaarchive.com/archive/pompeii-79-ad/lull-return/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://orpheaarchive.com/archive/pompeii-79-ad/ordered-to-stay/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://orpheaarchive.com/archive/pompeii-79-ad/wrong-direction/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://orpheaarchive.com/archive/pompeii-79-ad/pillow-armor/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://orpheaarchive.com/archive/pompeii-79-ad/no-word-for-volcano/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://orpheaarchive.com/archive/pompeii-79-ad/dna-casts/</loc>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>

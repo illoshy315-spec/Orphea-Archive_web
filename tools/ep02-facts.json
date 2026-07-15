@@ -1,0 +1,324 @@
+{
+  "episode": {
+    "slug": "pompeii-79-ad",
+    "label": "Instance 02 — Campania, 79 AD",
+    "title": "The Last Day of Pompeii",
+    "subtitle": "You had eighteen hours to leave. Everyone who stayed had a reason that sounded like sense.",
+    "orphea_intro": "The mountain gave roughly eighteen hours of notice before it killed anyone in Pompeii. I have filed the ten reasons people spent those hours packing, sheltering, praying, and waiting for boats. Sources attached — hindsight deserves paperwork.",
+    "intro": "On a day in 79 AD, Mount Vesuvius erupted for roughly twenty-five hours over the Bay of Naples. Most of Pompeii's ten-to-twenty thousand residents escaped; the roughly 1,150 bodies recovered so far belonged, overwhelmingly, to people who left too late or could not leave at all. The first pyroclastic surge did not reach Pompeii itself until the following dawn. Ten of the mechanisms that decided who walked out and who became a plaster cast are filed below, with sources."
+  },
+  "facts": [
+    {
+      "slug": "shelter-trap",
+      "no": "Record 01",
+      "eyebrow": "The Shelter Trap",
+      "title": "Staying indoors was the deadliest plan in town",
+      "card": {
+        "hook": "Four walls, a solid roof — and fifteen centimeters of stone landing on that roof every hour.",
+        "body": [
+          "When pumice started falling on Pompeii, the obvious move was the one that works in a thunderstorm: get inside, wait it out. But the fall didn’t stop. It accumulated — nearly three meters of it by morning.",
+          "Roofs caved in under the load. Doors jammed shut behind drifts of stone. The house became a sealed container, filling from above."
+        ]
+      },
+      "article": [
+        "<h2>The Mechanism</h2>",
+        "Every instinct the residents of Pompeii had about bad weather told them to do the same thing: go inside, close the shutters, and wait for the sky to finish. That instinct is what made the falling pumice so efficient a killer — this was not weather, and it did not pass. Stone fell at a rate of roughly fifteen centimeters an hour, hour after hour, until by the following morning parts of the city lay under nearly three meters of it. A house that felt like protection at noon was, by evening, a container with a failing lid.",
+        "The failure arrived in stages. First the flat and gently pitched roofs, never engineered to carry hundreds of kilograms per square meter, began to crack and cave — the first deaths of the eruption were people crushed inside their own homes. Then the drifts of pumice sealed ground-floor doors shut, so that changing your mind stopped being an option. Archaeologists excavating Pompeii have found a substantial share of the recovered dead in the pumice-fall layer, inside or beside buildings: people who died of the shelter itself, hours before the heat arrived.",
+        "<h2>Case on File — The Back Rooms</h2>",
+        "The pattern repeats across the city: households retreating deeper into the house as the front rooms failed, treating interior distance as safety. In the House of Julius Polybius, excavators found the remains of a dozen or so people — among them a heavily pregnant young woman — gathered in the rear rooms, where the family had withdrawn as the pumice buried the front of the property. For anyone still inside at dawn, the sixth pyroclastic surge settled the question; by then the packed pumice had already decided that no one in the deep rooms was leaving quickly.",
+        "<h2>The Echo</h2>",
+        "Nineteen centuries later, roofs are still how ashfall kills. When Mount Pinatubo in the Philippines erupted in June 1991 — the second-largest eruption of the twentieth century — the great majority of its roughly 850 deaths came not from lava or pyroclastic flows but from roofs collapsing under rain-soaked ash, after a passing typhoon wetted the fall and nearly doubled its weight. The U.S. Geological Survey's guidance on ashfall today reads like a memo Pompeii never got: ash is rock, loads accumulate fast, and a building protects you only up to the tonnage its roof was designed for. The instinct to shelter indoors has outlived the Roman Empire. So has the arithmetic that punishes it."
+      ],
+      "orphea": "The walls did exactly what walls do. They stayed put. So did everyone behind them.",
+      "inGame": "Choice — Wait It Out Indoors",
+      "sourceTag": "verified",
+      "sources": [
+        { "label": "Science (AAAS) — “A minute-by-minute account of the Pompeii eruption”", "url": "https://www.science.org/content/article/minute-minute-account-pompeii-eruption-revealed-agonizing-detail" },
+        { "label": "Wikipedia — “Eruption of Mount Vesuvius in 79 AD”", "url": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD" },
+        { "label": "U.S. Geological Survey — “Volcanic ash impacts: Pinatubo 1991, buildings”", "url": "https://volcanoes.usgs.gov/volcanic_ash/pinatubo_1991.html" },
+        { "label": "U.S. Geological Survey — “Remembering Mount Pinatubo 25 Years Ago”", "url": "https://www.usgs.gov/news/featured-story/remembering-mount-pinatubo-25-years-ago-mitigating-a-crisis" }
+      ]
+    },
+    {
+      "slug": "boat-rescue",
+      "no": "Record 02",
+      "eyebrow": "The Waiting Shore",
+      "title": "Three hundred people waited for boats that never landed",
+      "card": {
+        "hook": "The rescue fleet was real. It was on the water. The sea said no.",
+        "body": [
+          "In Herculaneum, hundreds gathered on the beach and packed into twelve stone boat sheds facing the water — the logical assembly point for an evacuation by sea. The Roman navy really was coming: the admiral at Misenum had launched warships across the bay.",
+          "But wind and waves made the shore unreachable. Around one in the morning, the first pyroclastic surge came down the mountain at several hundred degrees. Everyone in the sheds died where they waited."
+        ]
+      },
+      "article": [
+        "<h2>The Mechanism</h2>",
+        "Herculaneum sat upwind of the eruption, so almost no pumice fell there — which made escape by sea look not just possible but sensible. Residents did the orderly thing: they went down to the beach and sheltered in the fornici, twelve vaulted stone boat sheds facing the water, to wait for evacuation. Waiting was the plan, and the plan had real grounds — across the bay at Misenum, Pliny the Elder, commander of the Roman fleet, had already ordered warships out to evacuate the coast. This was, as far as anyone can tell, the first large-scale naval rescue operation in recorded history. It was also useless: the same conditions that made the emergency — violent wind, rising seas, floating rafts of pumice — made the shoreline unreachable from the water.",
+        "The people in the sheds could not have known the fleet would fail, and they never learned it. Around one in the morning, the eruption column collapsed and sent the first pyroclastic surge down the mountain's western flank into Herculaneum — a wave of gas and rock at roughly 500°C. The roughly 300 people packed into the fornici, most of them women and children, died instantly, huddled in groups of up to twenty per chamber. Until the sheds were excavated in the 1980s, scholars had believed nearly everyone in Herculaneum got out.",
+        "<h2>Case on File — The Admiral on the Same Shore</h2>",
+        "The rescue's commander died of the same logic he was sailing against. Unable to reach the villa of Rectina, the friend whose letter had turned his scientific outing into a rescue mission, Pliny the Elder diverted south to Stabiae — where the same onshore wind that had carried him in refused to let any ship out. He spent the night waiting for conditions to turn, and died on the beach the next morning, one more person on a shoreline trusting the sea to open. His nephew's account of it, written to the historian Tacitus, is the reason any timeline of this eruption exists.",
+        "<h2>The Echo</h2>",
+        "The modern version of the boat sheds is the designated assembly point. On March 11, 2011, teachers at Okawa Elementary School in Ishinomaki, Japan, kept their students waiting at the school's assembly area for roughly fifty minutes after the tsunami warning, debating where to go, while a hill stood directly behind the school. Seventy-four children and ten teachers died when the wave arrived. Japanese courts found the deaths preventable — a negligence ruling worth ¥1.4 billion that Japan's Supreme Court let stand in 2018 — establishing what Herculaneum's beach had already demonstrated: a gathering point is where evacuation is supposed to begin, and every minute spent waiting there is spent inside the hazard zone, feeling organized."
+      ],
+      "orphea": "Rescue was genuinely on its way. The wind voted no, and the wind had a longer record.",
+      "inGame": "Choice — Wait at the Shore",
+      "sourceTag": "verified",
+      "sources": [
+        { "label": "Popular Archaeology — “The Death Chambers of Herculaneum”", "url": "https://popular-archaeology.com/article/the-death-chambers-of-herculaneum/" },
+        { "label": "Western Australian Museum — “A Voyage into Catastrophe: Pompeii and the Roman Navy”", "url": "https://museum.wa.gov.au/explore/articles/voyage-catastrophe-pompeii-and-roman-navy" },
+        { "label": "Pliny the Younger, Letters 6.16 (trans., Univ. of Arkansas text)", "url": "https://cmuntz.hosted.uark.edu/texts/pliny-the-younger/the-eruption-of-vesuvius.html" },
+        { "label": "Courthouse News Service — “Japan Top Court Upholds Damages Over Student Tsunami Deaths”", "url": "https://www.courthousenews.com/japan-top-court-upholds-damages-over-student-tsunami-deaths/" },
+        { "label": "PLoS ONE (PMC) — “A hypothesis of sudden body fluid vaporization in the 79 AD victims of Vesuvius”", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6157861/" }
+      ]
+    },
+    {
+      "slug": "packing-delay",
+      "no": "Record 03",
+      "eyebrow": "The Price of Property",
+      "title": "They died with their luggage",
+      "card": {
+        "hook": "The houses of survivors were found empty. The dead were found holding things.",
+        "body": [
+          "Excavators keep finding the same contrast: strongboxes emptied and carts missing from the homes of people who escaped early — and skeletons in the streets clutching coin purses, jewelry, silverware, keys.",
+          "Every hour spent gathering property was an hour of stone accumulating on the roads out. The pumice did not negotiate with net worth."
+        ]
+      },
+      "article": [
+        "<h2>The Mechanism</h2>",
+        "In a Roman city, walking away from your property meant walking away from your standing. A citizen's money, account tablets, seal ring, and household gods were not conveniences; they were the proof of who he was and who owed him what. So when the column of stone rose over Vesuvius, thousands of people made the reasonable middle choice: leave, but pack first. The eruption priced that choice by the hour. Pumice accumulated at roughly fifteen centimeters an hour, and the roads out of the city got slower, darker, and more dangerous with every load carried down from an upstairs room.",
+        "The archaeology records both halves of the bargain. Many houses in Pompeii were excavated with their strongboxes standing open and emptied, their stables missing carts and horses — the signature of households that packed fast and left in the first hours, and largely lived. And then there are the others: bodies overtaken on the roads and in doorways with coin purses, silver, and jewelry gathered to them, the salvage still in hand when the salvage stopped mattering.",
+        "<h2>Case on File — The Emptied City</h2>",
+        "For centuries the missing valuables were read as evidence of later looting, and some of it was. But the pattern historian Steven Tuck assembled points the other way: alongside the absent carts, ships gone from the docks, and cleaned-out coin chests, the names of Pompeian and Herculanean families reappear after 79 AD in the records of Naples, Cumae, Puteoli, and Ostia — resettled, intermarried, holding office. The people who treated property as something you carry in one load or abandon show up in the afterlife of the disaster. Many of the people who treated it as something worth a second trip show up in the casts.",
+        "<h2>The Echo</h2>",
+        "Aviation regulators run this exact experiment several times a year, and the results have not improved on Pompeii's. In a 2000 emergency-evacuation study, the U.S. National Transportation Safety Board found that nearly half of surveyed passengers had tried to take a carry-on bag with them while evacuating a burning or crashed aircraft, and urged the FAA to treat the behavior as a safety problem in its own right. When Aeroflot Flight 1492 caught fire on landing in Moscow in 2019, killing 41 of the 78 people aboard, Russian investigators cited passengers stopping for luggage as a factor in how slowly the front of that cabin emptied. A 2024 FAA-commissioned study confirmed the obvious with simulations: every retrieved bag slows the entire line behind it. The overhead bin is a strongbox. The aisle is the road out of Pompeii. The math has not changed."
+      ],
+      "orphea": "Everything they saved is in a museum now. The labels read “found with victim.”",
+      "inGame": "Choice — Pack the Strongbox First",
+      "sourceTag": "verified",
+      "sources": [
+        { "label": "Live Science — “Tracing the survivors of Pompeii and Herculaneum” (Steven Tuck)", "url": "https://www.livescience.com/archaeology/romans/people-made-it-out-of-the-cities-alive-tracing-the-survivors-of-pompeii-and-herculaneum-2-000-years-after-vesuvius-erupted" },
+        { "label": "PBS News — “Archaeologists find records of Pompeii survivors”", "url": "https://www.pbs.org/newshour/world/archaeologists-find-records-of-pompeii-survivors-that-reveal-how-they-rebuilt-their-lives" },
+        { "label": "Royal Aeronautical Society — “The passenger’s dilemma: ‘exit or bag’ in an emergency”", "url": "https://www.aerosociety.com/news/the-passenger-s-dilemma-a-choice-between-exit-or-bag-in-an-emergency/" },
+        { "label": "FlightGlobal — “FAA urges airlines to discourage passengers from taking bags during evacuations”", "url": "https://www.flightglobal.com/safety/faa-urges-airlines-to-discourage-passengers-from-taking-bags-during-evacuations/164590.article" }
+      ]
+    },
+    {
+      "slug": "normalcy-bias",
+      "no": "Record 04",
+      "eyebrow": "Normalcy Bias",
+      "title": "Seventeen years of earthquakes taught them not to run",
+      "card": {
+        "hook": "The ground had shaken for days. Nobody packed. It had shaken before, and nothing had come of it.",
+        "body": [
+          "Seventeen years earlier, a massive earthquake had wrecked Pompeii — and the city survived, rebuilt, carried on. Scaffolding from those repairs was still up in 79 AD. Tremors were, in Pliny’s words, “not particularly alarming, because they are frequent in Campania.”",
+          "So when the ground rumbled for days before the eruption, experience gave its confident, fatal advice: this passes. It always has."
+        ]
+      },
+      "article": [
+        "<h2>The Mechanism</h2>",
+        "The days before the eruption came with a warning, and the warning failed precisely because people had seen it before. Tremors ran through Campania for days — and were dismissed, in Pliny the Younger's words, as “not particularly alarming, because they are frequent in Campania.” Seventeen years earlier, in 62 AD, a violent earthquake had knocked down large parts of Pompeii. That disaster now worked against the town: everyone who lived through it had learned, from direct experience, that the ground here misbehaves and then life goes on. In 79 AD parts of the city were still under repair from that quake — people were living, comfortably, inside the evidence that shaking passes and buildings can be fixed.",
+        "Psychologists now have a name for this: normalcy bias, the tendency to read a new threat through the template of past ones that turned out fine. The residents of Pompeii weren't reckless. They were experienced — and their experience was a sample of quakes that had never once been followed by a volcano, drawn at the foot of a mountain none of them knew was one.",
+        "<h2>Case on File — The Teenager Reading Livy</h2>",
+        "The bias reached even the most literate household on the bay. At Misenum, across the water, seventeen-year-old Pliny the Younger watched the column rise over Vesuvius — and then went back to the history book he'd been assigned, Livy, and kept reading as the tremors grew. He records it himself, with some embarrassment, in the letter that became history's primary account of the eruption. His family stayed the entire first day and night; they fled only the next morning, into falling ash and a darkness he describes as blacker than any night, when staying finally became impossible. The man who gave the eruption its name barely outran his own household's calm.",
+        "<h2>The Echo</h2>",
+        "Modern evacuation research keeps reproducing Pompeii's pattern. A 2016 study in the American Meteorological Society's <em>Weather, Climate, and Society</em> found that prior hurricane experience shapes evacuation intentions indirectly — through what the storm you survived taught you to expect — and that people whose past storms proved mild carry that lesson into the next one. Work from the Yale Program on Climate Change Communication points the same direction: the strongest predictor of whether people intend to evacuate is what they decided last time, especially when they're confident the last call was right. Emergency managers saw the endpoint of that math during Hurricane Katrina, when thousands of New Orleans residents who had weathered earlier hurricanes stayed for this one. Experience is a fine teacher, right up until the exam changes."
+      ],
+      "orphea": "Surviving seventeen years of small disasters is excellent training for ignoring a large one.",
+      "inGame": "Choice — Trust the Old Quakes",
+      "sourceTag": "verified",
+      "sources": [
+        { "label": "Pliny the Younger, Letters 6.20 (trans., Univ. of Arkansas text)", "url": "https://cmuntz.hosted.uark.edu/texts/pliny-the-younger/the-eruption-of-vesuvius.html" },
+        { "label": "Wikipedia — “Eruption of Mount Vesuvius in 79 AD” (62 AD earthquake context)", "url": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD" },
+        { "label": "AMS Weather, Climate, and Society — “The Effects of Past Hurricane Experiences on Evacuation Intentions”", "url": "https://journals.ametsoc.org/doi/10.1175/WCAS-D-15-0074.1" },
+        { "label": "Yale Program on Climate Change Communication — “Predicting hurricane evacuation behavior”", "url": "https://climatecommunication.yale.edu/publications/predicting-hurricane-evacuation-behavior/" }
+      ]
+    },
+    {
+      "slug": "lull-return",
+      "no": "Record 05",
+      "eyebrow": "The False All-Clear",
+      "title": "The mountain paused for breath. They heard a full stop.",
+      "card": {
+        "hook": "The stone stopped falling. For a little while — perhaps half an hour — the city was quiet.",
+        "body": [
+          "Survivors of the first night climbed out of second-floor windows onto streets buried in loose rock, and moved — some toward the gates, some back toward home to see what was left.",
+          "The bodies found lying on top of the pumice layer belong to them: people who survived eighteen hours of falling stone, and then trusted the silence."
+        ]
+      },
+      "article": [
+        "<h2>The Mechanism</h2>",
+        "Toward the end of the night, the storm of pumice slackened, and for a brief spell — accounts suggest perhaps half an hour — Pompeii went quiet. To anyone who had endured eighteen hours in a creaking, buried house, the silence carried an obvious meaning: it's over. Survivors climbed out of upper-floor windows — the ground floors were long since buried — and dropped onto streets of loose stone, three meters above the pavement they knew. Some struck out for the gates. Others went the opposite way, back to check on houses and people they'd left. In reality the quiet was the eruption changing gears: the column that had been raining stone was collapsing, and what replaced it moved along the ground.",
+        "The archaeology preserves the timing with terrible precision. At Pompeii, one population of victims lies buried <em>within</em> the pumice-fall layer — the people of Record 01, killed under roofs during the first phase. But excavators keep finding a second population lying <em>on top of</em> that layer, out in the open: people who had, by definition, survived the entire first phase and were up, out, and moving when the surges arrived at dawn. Near the Porta Nola gate, a group of them lies on the pumice within sight of the way out.",
+        "<h2>The Distinction That Killed</h2>",
+        "What separated the two populations was the rule each group used to time its escape. The people who left at the first sign of the column — while stone was still falling — walked out of a survivable hazard and mostly lived. The people who waited for conditions to improve tied their departure to the mountain's schedule instead of their own, and the mountain's schedule had one more entry. In a disaster that escalates in stages, calm is not data about safety. It is often the sound of the next stage loading.",
+        "<h2>The Echo</h2>",
+        "Meteorologists fight this exact misreading every hurricane season, and it has an official name on the National Weather Service's warning list: the eye. When the center of a hurricane passes overhead, winds drop to nearly nothing and the sky can clear — and NOAA's public guidance warns, explicitly, that people who step outside in the calm believing the storm has passed are then caught by the far eyewall, which arrives with the storm's fiercest winds blowing from the opposite direction. The storm is only half over; it just sounds finished. Pompeii's version lasted half an hour and had no far side. Nobody who trusted it got a correction."
+      ],
+      "orphea": "Quiet is not information. The people at Porta Nola can confirm.",
+      "inGame": "Choice — Go Back During the Lull",
+      "sourceTag": "verified",
+      "sources": [
+        { "label": "HISTORY — “A Volcanic Eruption Wasn’t the Only Disaster That Destroyed Pompeii”", "url": "https://www.history.com/articles/pompeii-eruption-volcano-earthquakes" },
+        { "label": "Science (AAAS) — “How did Pompeii’s victims really die?”", "url": "https://www.science.org/content/article/how-did-pompeii-s-victims-really-die" },
+        { "label": "NOAA — “Tropical Cyclone Structure” (the eye and eyewall)", "url": "https://www.noaa.gov/jetstream/tropical/tropical-cyclone-introduction/tropical-cyclone-structure" },
+        { "label": "National Weather Service — “Hurricane Hazards”", "url": "https://www.weather.gov/wrn/hurricane-hazards" }
+      ]
+    },
+    {
+      "slug": "ordered-to-stay",
+      "no": "Record 06",
+      "eyebrow": "The Chain of Command",
+      "title": "Some of the dead were on duty",
+      "card": {
+        "hook": "The city had eighteen hours to empty. Not everyone in it was allowed to use them.",
+        "body": [
+          "A Roman household slave could not simply leave: legally, they were property, and walking away made them a fugitive. When masters fled, someone was often told to stay and guard the house.",
+          "Researchers studying victims’ savings found many died carrying almost nothing — pointing to the city’s enslaved and poorest as the ones still inside when the surges came."
+        ]
+      },
+      "article": [
+        "<h2>The Mechanism</h2>",
+        "The eighteen-hour window that saved most of Pompeii was never open equally. Perhaps a third of the city's population was enslaved — and an enslaved person did not own the decision to leave. Under Roman law they were property; departing without permission made them a <em>fugitivus</em>, a runaway, subject to branding and worse if the world outside the ash cloud went back to normal. And the world going back to normal was exactly what everyone expected (see: Record 04). So when households packed and fled, the instruction many left behind was the ordinary one for any absence: watch the house. Guard the strongbox. We'll be back.",
+        "Recent research puts data behind the suspicion of who obeyed. Analysis of the money found with victims shows a striking share died carrying small change or nothing — the profile of the enslaved and the very poor, in a city whose householders had property worth packing. The conclusion the researchers drew is the bleak inversion of the whole disaster: what kept people in Pompeii was, in large part, not physical inability to flee but social and legal inequality. The city's fastest exit was reserved for the people who owned themselves.",
+        "<h2>Case on File — The Ones Guarding the Doors</h2>",
+        "The pattern shows up in where victims lie. Skeletons excavated in the grand townhouses are routinely found not in the family quarters but in service areas, at doorways, beside stored valuables — positions consistent with people minding property rather than living in it. Individually, none of these bodies can be proven a slave; Roman disaster left no name tags. Collectively, alongside the savings evidence and the legal reality that a third of the city needed permission to run, they sketch the population that stayed because staying was the job.",
+        "<h2>The Echo</h2>",
+        "The question of who may leave a workplace when disaster arrives is still being litigated, most visibly after December 10, 2021, when a tornado collapsed an Amazon delivery warehouse in Edwardsville, Illinois, killing six workers. OSHA's investigation found the company had met minimum federal safety standards — and then flagged, in the same report, that the megaphone for ordering shelter was locked in a cage, that workers didn't know where the shelter was or recall a drill, and that the site's emergency plan was generic boilerplate, complete with hurricane provisions for a warehouse in Illinois. Families and drivers described dispatchers keeping deliveries running as warnings sounded. Nobody in Edwardsville was anyone's legal property. But the gap between who decides and who stays was recognizable from nineteen centuries away — narrower now, and not closed."
+      ],
+      "orphea": "The instructions were clear, and the people who gave them were already on the road.",
+      "inGame": "Identity — The Household Slave",
+      "sourceTag": "verifying",
+      "sources": [
+        { "label": "History First — “Meagre savings of Pompeii victims suggest they were slaves or city’s poorest”", "url": "https://historyfirst.com/pompeii-victims-meagre-savings-may-point-to-slave-status/" },
+        { "label": "Past & Present (Oxford) — “Slavery, Prosperity, and Inequality in Roman Pompeii”", "url": "https://academic.oup.com/past/advance-article/doi/10.1093/pastj/gtaf006/8084769" },
+        { "label": "PBS News — “OSHA opens investigation after Amazon warehouse collapses during tornado”", "url": "https://www.pbs.org/newshour/economy/osha-opens-investigation-after-amazon-warehouse-collapses-during-tornado-killing-6" },
+        { "label": "Wikipedia — “Edwardsville Amazon warehouse collapse”", "url": "https://en.wikipedia.org/wiki/Edwardsville_Amazon_warehouse_collapse" }
+      ]
+    },
+    {
+      "slug": "wrong-direction",
+      "no": "Record 07",
+      "eyebrow": "The Geometry of Escape",
+      "title": "South was the road the ash took",
+      "card": {
+        "hook": "Running from the mountain and running from the eruption were two different directions.",
+        "body": [
+          "High-altitude wind pushed the eruption column southeast — directly over Pompeii and the coast beyond it. Fleeing south meant traveling with the fallout, under it, for hours.",
+          "The record keeps the score: survivors’ names resurface in towns to the north, while the bodies of the late escapees have been found along the roads south."
+        ]
+      },
+      "article": [
+        "<h2>The Mechanism</h2>",
+        "Every escape from Pompeii started with the same instinct: away from the mountain. But the eruption was not the mountain — it was the column above the mountain, thirty kilometers tall, and the high-altitude wind was pushing it southeast, over Pompeii and far down the coast beyond. That geometry sorted the refugees. Heading south, the intuitive direction, meant walking with the fallout: hours under the same rain of stone the city was drowning in, on roads growing softer and deeper with pumice. Heading north meant a well-maintained road toward Naples and, crucially, edges — the fallout zone thinned and ended in that direction. Written records of survivors cluster in the towns north and northwest; the remains of those who attempted escape too late have been found predominantly to the south.",
+        "None of this was knowable from street level in the dark. Wind direction at thirty kilometers' altitude is not something a person under a stone sky can read, and no one alive had seen an eruption column before. The people who chose south simply applied the only map anyone had — distance from the visible threat — to a hazard that worked on a different axis.",
+        "<h2>Case on File — The Admiral Sailing South</h2>",
+        "The most documented wrong-direction journey of the day belongs to Pliny the Elder (see: Record 02). Blocked from his planned rescue landing, he diverted south to Stabiae — deeper into the fallout corridor. The same onshore wind that had sped him in pinned every ship to the beach, and the pumice kept falling through the night. He died there at dawn, on the far edge of a fallout zone that a northbound course would have exited. His nephew, at Misenum to the northwest, lived to write it all down.",
+        "<h2>The Echo</h2>",
+        "The modern escape from Pompeii happened in California in November 2018, and it has a federal case study. When the Camp Fire reached the town of Paradise, the evacuation sent roughly 40,000 people onto a road network that the fire was closing in real time — the National Institute of Standards and Technology later calculated that for most of that morning, two or more of the town's four exit arteries were cut off at once. Routes that normally took twenty-five minutes took hours; some residents were overrun by fire in gridlocked cars. Eighty-five people died. NIST's resulting guidance to fire-country towns reads like a debrief of 79 AD: the survivable direction is a moving target, the intuitive route is not the safe one, and the time to learn your exits is before the sky changes color."
+      ],
+      "orphea": "“Away from the mountain” is a direction. So is “downwind.” That day they were the same one.",
+      "inGame": "Choice — The Southern Road",
+      "sourceTag": "verified",
+      "sources": [
+        { "label": "Live Science — “Tracing the survivors of Pompeii and Herculaneum” (Steven Tuck)", "url": "https://www.livescience.com/archaeology/romans/people-made-it-out-of-the-cities-alive-tracing-the-survivors-of-pompeii-and-herculaneum-2-000-years-after-vesuvius-erupted" },
+        { "label": "Wikipedia — “Eruption of Mount Vesuvius in 79 AD” (fallout distribution)", "url": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD" },
+        { "label": "NIST Technical Note 2252 — “A Case Study of the Camp Fire” (evacuation and traffic)", "url": "https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2252.pdf" },
+        { "label": "NIST — “NIST Issues New Guidance for Emergency Response During Wildfires”", "url": "https://www.nist.gov/news-events/news/2023/08/nist-issues-new-guidance-emergency-response-during-wildfires" }
+      ]
+    },
+    {
+      "slug": "pillow-armor",
+      "no": "Record 08",
+      "eyebrow": "The Visible Hazard",
+      "title": "Armor for the wrong enemy",
+      "card": {
+        "hook": "They tied pillows to their heads and walked out under the falling stone. It worked.",
+        "body": [
+          "Pliny’s letters preserve the image: households leaving Stabiae with cushions bound to their heads with cloth, helmets against the pumice. Against falling stone, it was genuinely sound protection.",
+          "But the eruption’s real killer wasn’t falling. The pyroclastic surges arrived as a wave of gas and ash at several hundred degrees — and no protection anyone could improvise, or even imagine, addressed heat."
+        ]
+      },
+      "article": [
+        "<h2>The Mechanism</h2>",
+        "The most famous protective equipment of the eruption appears in Pliny the Younger's account of his uncle's last night at Stabiae: when the household finally abandoned the buildings for the open beach, “they tied pillows on their heads as protection against the falling objects.” As engineering, it was reasonable. Pumice is frothed volcanic glass, light enough to float; what fell on Campania that day bruised and battered and occasionally knocked people down, but a bound cushion genuinely blunted it. The pillow-helmets are a snapshot of people solving, competently, the hazard they could see and feel: things falling from above.",
+        "The hazard that killed nearly everyone who stayed did not fall at all, and gave no comparable warning to reason from. When the eruption column collapsed, it sent pyroclastic surges along the ground — avalanches of gas and ash at roughly 250 to 500 degrees Celsius, moving at highway speeds. Volcanological studies of the Pompeii victims concluded that heat, not suffocation, killed most of them, and killed them in moments; many of the dead show no defensive contortion at all, frozen mid-posture. Against that, cloth, cushions, walls, and distance-within-the-city were all the same answer: none.",
+        "<h2>Case on File — The Beach at Stabiae</h2>",
+        "Pliny the Elder wore the improvised armor himself, pillow and cloth, down to the Stabiae shoreline — and died there anyway, apparently of the fumes or a failing heart, the one man in the party the protective gear could not have saved from the hazard that actually reached him. The pillows did their job. The job was never the problem.",
+        "<h2>The Echo</h2>",
+        "Hurricane preparation has its own pillow helmet: plywood over the windows. Boarding up defends against the hazard people picture — wind, flying debris — and the ritual of doing it feels like readiness. The National Hurricane Center's fatality data tells a different story about what kills: across recent decades, nearly nine in ten U.S. tropical-cyclone deaths have come from water — storm surge and flooding — not wind. In the 2013–2022 period the split was 86 percent water to 12 percent wind. NOAA's plain-language warning amounts to Stabiae in a sentence: the protection most people invest in is aimed at the visible hazard, and the lethal one requires a different decision entirely — not hardening the house, but leaving it."
+      ],
+      "orphea": "The pillows were rated for stone. Nothing they owned was rated for the air.",
+      "inGame": "Choice — Improvise Protection and Push Through",
+      "sourceTag": "verified",
+      "sources": [
+        { "label": "Pliny the Younger, Letters 6.16 (trans., Univ. of Arkansas text)", "url": "https://cmuntz.hosted.uark.edu/texts/pliny-the-younger/the-eruption-of-vesuvius.html" },
+        { "label": "PLoS ONE — “Lethal Thermal Impact at Periphery of Pyroclastic Surges: Evidences at Pompeii”", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2886100/" },
+        { "label": "NOAA — “Storm surge, the deadliest threat from tropical cyclones”", "url": "https://www.noaa.gov/stories/storm-surge-deadliest-threat-from-tropical-cyclones" },
+        { "label": "Weather.com — “US Hurricane Deaths Mainly From Water, Not Wind (NHC study)”", "url": "https://weather.com/storms/hurricane/news/2024-05-29-us-hurricane-deaths-tropical-storms-rainfall-flooding-nhc-study" }
+      ]
+    },
+    {
+      "slug": "no-word-for-volcano",
+      "no": "Record 09",
+      "eyebrow": "The Missing Concept",
+      "title": "Nobody knew the mountain was a volcano",
+      "card": {
+        "hook": "Romans knew what volcanoes were. Etna smoked on every sailor’s horizon. Vesuvius just wasn’t on the list.",
+        "body": [
+          "Vesuvius had been quiet for centuries — long past living memory. Its slopes were vineyards; towns crowded its base. When Pliny tried to describe the eruption cloud, he reached for a garden image: a Mediterranean pine.",
+          "Every warning sign — the tremors, the failing springs — was legible only in a category no one had applied. You cannot evacuate from a threat your language hasn’t attached to your mountain."
+        ]
+      },
+      "article": [
+        "<h2>The Mechanism</h2>",
+        "The Romans were not ignorant of volcanoes. Etna, in Sicily, smoked and erupted throughout antiquity, and educated Romans wrote about it. What no one in Campania possessed was the connection: the knowledge that the green, terraced mountain over their own bay belonged to the same category. Vesuvius had not erupted in centuries — far beyond living memory or family story — and everything about it testified to safety: vineyards up the slopes, villas at the base, one of the most densely settled coastlines in the empire spread across what volcanologists now recognize as the hazard zone. The tremors in the preceding days (see: Record 04) were warnings in a language no one had been taught to read. Risk perception needs a category before it can process a signal, and the category was not installed.",
+        "The gap is visible in the eyewitness prose. When Pliny the Younger described the eruption column — the first such description in Western literature — he had no technical vocabulary to reach for and used a garden image instead: a cloud shaped “like an umbrella pine,” a tall trunk spreading into branches. Volcanologists still call this eruption type “Plinian” after him, a term coined roughly eighteen centuries after he watched it happen. The man witnessed the definitive volcanic catastrophe of antiquity and had to describe it in trees.",
+        "<h2>Case on File — The Note on the Shelf</h2>",
+        "The knowledge existed. It just wasn't wired to anything. The geographer Strabo, writing decades before the eruption, looked at Vesuvius' summit and recorded that its cindery, fire-eaten rocks suggested the mountain had once burned. The observation sat on the shelf, a geological curiosity with no policy attached: no memory tradition, no taboo on building, nothing that translated “this burned once” into “this could burn again.” A fact that changes no behavior is trivia, even when it is the single most important fact on the coast.",
+        "<h2>The Echo</h2>",
+        "The clearest modern control group for Pompeii sits in the Indian Ocean. When the 2004 tsunami struck Aceh province, it killed on the order of 170,000 people on the Sumatran mainland — many of whom moved toward the exposed seabed when the water withdrew, having no framework for what a receding ocean announces. On the island of Simeulue, closer to the epicenter, the same event killed seven. The difference was a word: <em>smong</em>, carried in songs and bedtime stories since a deadly 1907 tsunami — when the earth shakes and the sea pulls back, run for the hills. A peer-reviewed study in <em>Earthquake Spectra</em> credited the oral tradition with the island's survival. Vocabulary, it turns out, is disaster infrastructure. Pompeii is what its absence looks like; Simeulue is what it costs to maintain: one poem."
+      ],
+      "orphea": "Simeulue kept a word and lost seven people. Pompeii lacked one and became a word.",
+      "inGame": "Opening — What the Player Knows That the City Doesn't",
+      "sourceTag": "verifying",
+      "sources": [
+        { "label": "Wikipedia — “Mount Vesuvius” (pre-79 dormancy; Strabo’s observation)", "url": "https://en.wikipedia.org/wiki/Mount_Vesuvius" },
+        { "label": "Pliny the Younger, Letters 6.16 (the pine-tree cloud)", "url": "https://cmuntz.hosted.uark.edu/texts/pliny-the-younger/the-eruption-of-vesuvius.html" },
+        { "label": "Earthquake Spectra (SAGE) — “Smong: How an Oral History Saved Thousands on Indonesia’s Simeulue Island”", "url": "https://journals.sagepub.com/doi/10.1193/1.2204966" },
+        { "label": "The World (PRX) — “Some people on Indonesia’s Simeulue island relied on folklore to escape the 2004 tsunami”", "url": "https://theworld.org/stories/2024/12/27/some-people-on-indonesias-simeulue-island-relied-on-folklore-to-escape-the-2004-tsunami" }
+      ]
+    },
+    {
+      "slug": "dna-casts",
+      "no": "Record 10",
+      "eyebrow": "The Stories We Filed",
+      "title": "The mother holding the child was neither",
+      "card": {
+        "hook": "For a century, visitors wept over a mother shielding her baby. In 2024, the DNA came back.",
+        "body": [
+          "The adult with the golden bracelet, cradling a child on their lap: an adult male, genetically unrelated to the child. The two figures locked in a final embrace, displayed for decades as sisters, or mother and daughter: at least one of them male.",
+          "The casts preserved the dead exactly. The stories draped over them were ours."
+        ]
+      },
+      "article": [
+        "<h2>The Mechanism</h2>",
+        "The plaster casts of Pompeii are not bodies. They are voids — hollows left in the hardened ash as the dead decayed, filled with plaster by excavators from the 1860s onward. The technique preserved final postures with photographic fidelity, and postures invite narrative: a figure curled beside a smaller one becomes a mother and child; two forms in an embrace become sisters. Museums, guidebooks, and a century and a half of visitors filled in the relationships, and the relationships hardened into fact by repetition. Nobody could check. Then, in 2024, somebody checked.",
+        "<h2>Case on File — The House of the Golden Bracelet</h2>",
+        "A team of geneticists extracted ancient DNA from skeletal fragments embedded in the plaster of several famous casts and published the results in <em>Current Biology</em>. At the House of the Golden Bracelet, the adult wearing the heavy gold band — long presented as a mother who died shielding her child — is genetically male, and unrelated to the child on his lap. The four victims of that house, displayed for decades as a nuclear family, share no close kinship at all. The pair in the celebrated “embrace,” variously narrated as sisters or as mother and daughter, includes at least one genetic male. The strontium and ancestry data added a quieter correction: the tested victims descended largely from recent immigrants from the eastern Mediterranean — Pompeii's dead were a port city's dead, more cosmopolitan than the Roman-family tableau the casts had been arranged to tell.",
+        "<h2>What the Plaster Was Hiding</h2>",
+        "The study also documented how physically constructed some of the narratives were: several casts had been restored, repositioned, and smoothed by earlier generations of conservators, the plaster itself edited toward the story being told about it. None of this makes the casts less real as records of how people died. It makes them unreliable as records of who those people were to each other — a distinction the ticket-buying public was never offered.",
+        "<h2>The Echo</h2>",
+        "The researchers drew the moral themselves, in the paper and in interviews: the errors were not random. Interpreters had consistently read jewelry as female, read an adult holding a child as its mother, read physical closeness as blood kinship — modern assumptions about gender and family, projected backward and mistaken for observation. The 2024 study is the rare Echo that requires no parallel from elsewhere, because it <em>is</em> the modern half of its own story: the trap this record documents — narrating the dead in your own image — was sprung not on the Romans but on us, and it worked for a hundred and fifty years."
+      ],
+      "orphea": "Nineteen centuries of mourners wept at the wrong story. The casts never corrected them. Why would they? The plaster was doing exactly what you asked of it.",
+      "inGame": "Ending — The Casts",
+      "sourceTag": "verified",
+      "sources": [
+        { "label": "Current Biology — “Ancient DNA challenges prevailing interpretations of the Pompeii plaster casts”", "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(24)01361-7" },
+        { "label": "NPR — “New DNA evidence upends what we thought we knew about Pompeii victims”", "url": "https://www.npr.org/2024/11/08/g-s1-33553/pompeii-dna-evidence-vesuvius-victims" },
+        { "label": "Smithsonian Magazine — “DNA Evidence Is Rewriting the Stories of Victims Who Perished in Pompeii”", "url": "https://www.smithsonianmag.com/smart-news/dna-evidence-is-rewriting-the-stories-of-victims-who-perished-in-pompeii-nearly-2000-years-ago-180985426/" },
+        { "label": "ScienceDaily — “DNA evidence rewrites story of people buried in Pompeii eruption”", "url": "https://www.sciencedaily.com/releases/2024/11/241107160923.htm" }
+      ]
+    }
+  ]
+}
