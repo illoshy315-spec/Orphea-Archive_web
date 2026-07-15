@@ -53,6 +53,19 @@ This is what turns "history recap" into something that justifies the site's own 
 - Prefer parallels with an official/legal anchor (a statute, a Supreme Court ruling, a federal agency report) over vague social-trend comparisons — these read as substantive rather than as filler.
 - If the best source you can find for the comparison is weak (e.g. character-witness-letter effectiveness — mostly law-firm blog content, no strong academic backing), don't oversell it. Frame it as a "here's what changed" contrast instead of "studies show," and say so if asked.
 
+### Explain the connection — don't gesture at it (added 2026-07-15, direct user feedback)
+
+Caught across all ten EP02 Echo sections in one pass. The failure mode: the paragraph delivers the source, the statistic, and the official anchor — and then hands the actual work of connecting it to the ancient record to a closing aphorism ("The math has not changed." / "So has the arithmetic that punishes it."). An aphorism may **cap** an explanation; it may never **replace** one. User feedback verbatim: "난 좀 알기쉽게 이해하기 쉽게 설명해줬으면 좋겠어. 너가 쓴 것들은 가끔 설명이 넘 작음." This is the same systemic bug as §3 (stakes separated from definition), showing up at paragraph scale instead of sentence scale.
+
+Concrete rules, each from a specific fix:
+
+1. **Every statistic gets a human translation in the same breath.** "86 percent water to 12 percent wind" means nothing until you add "roughly seven people drowned for every one the wind killed." If a number can't be restated in bodies, hours, or weights a reader can picture, it isn't explained yet.
+2. **If the parallel runs through a mechanism, state the mechanism in plain words.** Don't let "passengers stopping for luggage contributed to deaths" carry the load — say *why* one bag kills: an evacuation is a shared bottleneck; you don't die of your own delay, you die of everyone's delay stacking up in the aisle in front of you. Bottlenecks, feedback loops, incentive traps: name the moving part, in one sentence a tired reader can follow.
+3. **Spell out the psychology of the trap, not just its outcome.** "Boarding windows feels like readiness" is an observation; the explanation is the next step — doing something that visibly works against the danger you can see convinces you the disaster is handled, so you stop preparing for the one you can't see.
+4. **Check the last sentence of every section.** If deleting it would remove the only place the ancient/modern connection is actually stated, the explanation is missing from the body — the punchline is doing load-bearing work it can't hold.
+
+Length grows when you do this. That's correct — this is the opposite of padding (which is adding words without adding explanation). Never trim an explanation to protect a punchline.
+
 ## 5. Orphea's voice — where it lives, and where it doesn't
 
 The article body is written in a neutral documentary/historian voice — it's "the record itself." Orphea's personal, cynical reaction lives *only* in the separate one-line `orphea` field (rendered as a distinct "Orphea's Note" callout). This split was a deliberate, earlier decision — don't blend her first-person voice into the article body, and don't drop the `orphea` line when editing an article.
