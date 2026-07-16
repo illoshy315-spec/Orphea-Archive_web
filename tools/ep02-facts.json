@@ -5,7 +5,7 @@
     "title": "The Last Day of Pompeii",
     "subtitle": "You had eighteen hours to leave. Everyone who stayed had a reason that sounded like sense.",
     "orphea_intro": "The mountain gave roughly eighteen hours of notice before it killed anyone in Pompeii. I have filed the ten reasons people spent those hours packing, sheltering, praying, and waiting for boats. Sources attached — hindsight deserves paperwork.",
-    "intro": "On a day in 79 AD, Mount Vesuvius erupted for roughly twenty-five hours over the Bay of Naples. Most of Pompeii's ten-to-twenty thousand residents escaped; the roughly 1,150 bodies recovered so far belonged, overwhelmingly, to people who left too late or could not leave at all. The first pyroclastic surge did not reach Pompeii itself until the following dawn. Ten of the mechanisms that decided who walked out and who became a plaster cast are filed below, with sources."
+    "intro": "On a day in 79 AD, Mount Vesuvius erupted for roughly twenty-five hours over the Bay of Naples. Most of Pompeii's ten-to-twenty thousand residents escaped; the roughly 1,150 bodies recovered so far belonged, overwhelmingly, to people who left too late or could not leave at all. The first pyroclastic surge did not reach Pompeii itself until the following dawn. Eleven of the mechanisms that decided who walked out and who became a plaster cast are filed below, with sources."
   },
   "facts": [
     {
@@ -318,6 +318,40 @@
         { "label": "NPR — “New DNA evidence upends what we thought we knew about Pompeii victims”", "url": "https://www.npr.org/2024/11/08/g-s1-33553/pompeii-dna-evidence-vesuvius-victims" },
         { "label": "Smithsonian Magazine — “DNA Evidence Is Rewriting the Stories of Victims Who Perished in Pompeii”", "url": "https://www.smithsonianmag.com/smart-news/dna-evidence-is-rewriting-the-stories-of-victims-who-perished-in-pompeii-nearly-2000-years-ago-180985426/" },
         { "label": "ScienceDaily — “DNA evidence rewrites story of people buried in Pompeii eruption”", "url": "https://www.sciencedaily.com/releases/2024/11/241107160923.htm" }
+      ]
+    },
+    {
+      "slug": "price-of-yourself",
+      "no": "Record 11",
+      "eyebrow": "The Operating System",
+      "title": "Freedom was for sale — and your owner set the price",
+      "card": {
+        "hook": "Perhaps a third of the city was property. The exit existed. It had a price tag.",
+        "body": [
+          "Roman slavery came with a feature later slave systems deleted: a legal exit. A slave could hold savings — the peculium — and use it to buy their own freedom. Freed slaves became citizens; some of Pompeii’s grandest houses belonged to them.",
+          "Look closer at the arithmetic, though. The savings legally belonged to the owner. So did the price. Hope was part of the machinery."
+        ]
+      },
+      "article": [
+        "<h2>The Mechanism</h2>",
+        "To understand who stayed in Pompeii on the last day (see: Record 06), you need the operating system underneath: perhaps a third of the people in the city were property. Not a caste you could spot in a crowd — Roman slavery wasn't organized by appearance or origin the way later Atlantic slavery was. People arrived in it by being born to an enslaved mother, captured in a war, sold through a market, or abandoned as infants and raised for the purpose. In the street, a slave, a freedman, and a citizen might be indistinguishable. The difference was a legal category, recorded in ledgers, and it decided everything the eye couldn't see: whether you could marry, testify, move, or leave a burning city.",
+        "What makes the Roman version historically unusual is that the category had a door. A slave could hold a fund of savings called the <strong>peculium</strong> — tips, side earnings, a cut of business done for the master — and eventually offer it to buy their own freedom. Almost a century after Pompeii, imperial law would even come to enforce such a manumission agreement against a master who took the money and reneged — but in 79 AD the bargain rested on nothing firmer than the master's word. And read the rest of the fine print the way a Roman would: the peculium itself legally belonged to the master, held at his pleasure. The purchase price was whatever the master said you were worth. And the exit fee is what makes the design so durable — a slave saving toward freedom is a slave with a reason to work hard, stay loyal, and not run, which is to say the door wasn't a flaw in the system. It was a load-bearing part of it. Chains have to be watched; hope watches itself.",
+        "<h2>Case on File — The House of the Vettii</h2>",
+        "The door was real, and Pompeii preserves its most famous graduates. One of the grandest houses in the city — frescoed floor to ceiling, a showpiece garden, reopened to tourists in 2023 after decades of restoration — belonged to Aulus Vettius Conviva and Aulus Vettius Restitutus, two freedmen, most likely once enslaved in the same household, who made a fortune in the wine trade after buying or being granted their freedom. Conviva even held the office of Augustalis, a civic priesthood that was one of the few honors open to former slaves. Freedmen like them are everywhere in the record — in the port city of Ostia, the overwhelming majority of surviving funerary inscriptions belong to freedmen and their families, people for whom having a name carved in stone was the whole point. And the system's final elegance: successful freedmen routinely bought slaves of their own. The ladder's top rung came with a grip on the ladder.",
+        "<h2>The Stakes on the Last Day</h2>",
+        "Now put the peculium in the ash. A slave fleeing Pompeii empty-handed didn't just leave money behind — they left years of the only exit they would ever be offered, savings that existed at the master's pleasure and would certainly not be honored by a dead master's heirs. That is the calculation behind the bodies this file keeps returning to: packing the strongbox first (Record 03), obeying the order to stay (Record 06), returning during the lull (Record 05). For perhaps a third of the city, the thing buried under the pumice was the price of a person, nearly paid.",
+        "<h2>The Echo</h2>",
+        "The specific arithmetic — freedom priced in money you earn under the person who sets the price — did not retire with Rome. The International Labour Organization estimated in 2022 that about 28 million people worldwide were in forced labour, roughly the population of Australia, and that about one in five of those in forced labour exploitation were held through debt bondage: working off a debt on terms the creditor controls. The commonest modern gateway is the recruitment fee — a migrant worker pays thousands of dollars for a job placement and arrives already owing, wages and documents held against the balance. The ILO's standing principle, that workers should never bear recruitment costs, exists precisely because a debt whose size and schedule the employer controls functions the way a peculium did in reverse: in Rome you saved toward a price your owner set, and today the worker arrives owing a price the recruiter set. Either way, the person inside the arithmetic keeps working — because the exit is right there, always almost affordable."
+      ],
+      "orphea": "Chains need guards. A ledger guards itself — every payment renews the guard's contract.",
+      "inGame": "Opening — Your Price (forty denarii short)",
+      "sourceTag": "verified",
+      "sources": [
+        { "label": "Britannica — “Peculium (Roman law)”", "url": "https://www.britannica.com/topic/peculium" },
+        { "label": "British Museum — “Slavery in ancient Rome”", "url": "https://www.britishmuseum.org/exhibitions/nero-man-behind-myth/slavery-ancient-rome" },
+        { "label": "Smithsonian Magazine — “See the Lavish Pompeii Home Owned by Two Men Freed From Slavery”", "url": "https://www.smithsonianmag.com/smart-news/after-decades-of-restoration-lavish-pompeii-house-reopens-to-public-180981419/" },
+        { "label": "Wikipedia — “Slavery in ancient Rome”", "url": "https://en.wikipedia.org/wiki/Slavery_in_ancient_Rome" },
+        { "label": "International Labour Organization — “Questions and answers on forced labour”", "url": "https://www.ilo.org/resource/article/questions-and-answers-forced-labour" }
       ]
     }
   ]
